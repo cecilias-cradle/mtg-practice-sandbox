@@ -15,19 +15,133 @@ APP_TITLE = "Reality Fracture — Ultimate Prerelease Trainer"
 
 st.set_page_config(page_title=APP_TITLE, page_icon="🃏", layout="wide")
 
+
 st.markdown("""
 <style>
-.block-container {padding-top: 1rem; padding-bottom: 4rem; max-width: 1500px;}
-.rf-card {border:1px solid rgba(125,125,125,.24); border-radius:14px; padding:10px 12px; margin:6px 0 10px 0; min-height:138px; background:rgba(120,120,120,.045);}
-.rf-name {font-size:1rem; font-weight:750; line-height:1.2;}
-.rf-meta {font-size:.80rem; opacity:.78; margin-top:3px;}
-.rf-text {font-size:.87rem; line-height:1.28; margin-top:8px; white-space:pre-line;}
-.rf-tags {font-size:.77rem; opacity:.76; margin-top:7px;}
-.cC {border-left:5px solid #8f969c}.cU {border-left:5px solid #8ca3ad}.cR {border-left:5px solid #b59a55}.cM {border-left:5px solid #b96b40}.cSPG {border-left:5px solid #8d6ba8}
-.small-note {font-size:.83rem; opacity:.82;}
-.report-title {font-size:1.15rem; font-weight:750; margin-top:.5rem;}
+/* sfondo generale */
+.stApp {
+    background: #F7F4EE;
+    color: #1F2933;
+}
+
+/* contenitore principale */
+.block-container {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    max-width: 1350px;
+}
+
+/* titolo */
+h1, h2, h3 {
+    color: #18222C;
+    letter-spacing: -0.02em;
+}
+
+/* tabs */
+.stTabs [data-baseweb="tab-list"] {
+    gap: 0.4rem;
+    border-bottom: 1px solid #DDD4C7;
+}
+.stTabs [data-baseweb="tab"] {
+    background: transparent;
+    border-radius: 10px 10px 0 0;
+    padding: 0.55rem 0.9rem;
+    color: #4A5563;
+}
+.stTabs [aria-selected="true"] {
+    color: #2F6F6D !important;
+    border-bottom: 2px solid #2F6F6D;
+    font-weight: 600;
+}
+
+/* sidebar */
+section[data-testid="stSidebar"] {
+    background: #F2ECE2;
+    border-right: 1px solid #E1D9CC;
+}
+section[data-testid="stSidebar"] .stButton > button {
+    border-radius: 12px;
+}
+
+/* card pool/build/report */
+.rf-card {
+    background: #FFFFFF;
+    border: 1px solid #E4DBCF;
+    border-radius: 18px;
+    overflow: hidden;
+    box-shadow: 0 4px 14px rgba(28, 39, 49, 0.06);
+    margin-bottom: 1rem;
+}
+
+.rf-card img {
+    display: block;
+    width: 100%;
+}
+
+.rf-card-body {
+    padding: 0.9rem 0.95rem 1rem 0.95rem;
+    border-top: 1px solid #EEE5D8;
+    background: #FFFDFC;
+}
+
+.rf-card-title {
+    font-size: 1.02rem;
+    font-weight: 700;
+    line-height: 1.2;
+    color: #16202A;
+    margin-bottom: 0.3rem;
+}
+
+.rf-card-meta {
+    font-size: 0.82rem;
+    color: #6A7380;
+    line-height: 1.35;
+    margin-bottom: 0.55rem;
+}
+
+.rf-card-text {
+    font-size: 0.88rem;
+    line-height: 1.45;
+    color: #29323B;
+    white-space: pre-line;
+}
+
+/* metriche / box */
+div[data-testid="metric-container"] {
+    background: #FFFFFF;
+    border: 1px solid #E4DBCF;
+    border-radius: 14px;
+    padding: 0.8rem 0.9rem;
+    box-shadow: 0 2px 8px rgba(28, 39, 49, 0.04);
+}
+
+/* bottoni */
+.stButton > button {
+    background: #FFFFFF;
+    color: #1F2933;
+    border: 1px solid #D7CEC1;
+    border-radius: 12px;
+    padding: 0.55rem 1rem;
+}
+.stButton > button:hover {
+    border-color: #2F6F6D;
+    color: #2F6F6D;
+}
+
+/* checkbox */
+.stCheckbox label p {
+    font-size: 0.9rem;
+}
+
+/* expander */
+.streamlit-expanderHeader {
+    font-weight: 600;
+    color: #22303C;
+}
 </style>
 """, unsafe_allow_html=True)
+
+
 
 @st.cache_data
 def load_data():
@@ -196,7 +310,7 @@ ALL_PHYSICAL=[c for p in PACKS for c in p]+[PROMO]
 BUILD_POOL=[c for c in ALL_PHYSICAL if not c.get("basic",False)]
 
 st.title(APP_TITLE)
-st.caption("Simulazione Sealed · costruzione 40 · report avanzato · pescate reali · laboratorio sulle 280 carte")
+
 
 with st.sidebar:
     st.toggle("Mostra immagini",key="show_images")
