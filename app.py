@@ -1,6 +1,8 @@
 from __future__ import annotations
 
 import random
+import base64
+import html
 from collections import Counter, defaultdict
 from pathlib import Path
 
@@ -160,26 +162,66 @@ def image_path(c):
     return None
 
 
+def image_data_uri(path):
+    if not path:
+        return None
+    ext = path.suffix.lower().replace(".", "")
+    if ext == "jpg":
+        ext = "jpeg"
+    data = base64.b64encode(path.read_bytes()).decode("ascii")
+    return f"data:image/{ext};base64,{data}"
+
+
 def render_card(c, compact=False, selectable_key=None):
-    p=image_path(c)
-    if st.session_state.get("show_images",True) and p:
-        st.image(str(p), use_container_width=True)
-    foil=" · foil" if c.get("foil") else ""
-    txt=(c.get("text") or "").replace("<","&lt;").replace(">","&gt;")
-    html=(
-        '<div class="rf-card c%s">'%c.get("rarity","C")+
-        '<div class="rf-name">%s</div>'%c.get("name","?")+
-        '<div class="rf-meta">%s · %s · %s%s · %s</div>'%(
-            c.get("mana") or "—", c.get("type") or "", engine.RARITY_NAME.get(c.get("rarity"),c.get("rarity")),
-            foil, engine.color_label(c))
+    p = image_path(c)
+    show_img = st.session_state.get("show_images", True) and p
+
+    name = html.escape(c.get("name", "?"))
+    rules = html.escape(c.get("text") or "").replace("
+", "<br>")
+    mana = html.escape(c.get("mana") or "—")
+    ctype = html.escape(c.get("type") or "")
+    rarity = html.escape(
+        engine.RARITY_NAME.get(c.get("rarity"), c.get("rarity"))
     )
-    if not compact and not (st.session_state.get("show_images",True) and p):
-        html += '<div class="rf-text">%s</div>'%txt
-    tagtxt=" · ".join(engine.tags(c)) or "—"
-    html += '<div class="rf-tags">%s</div></div>'%tagtxt
-    st.markdown(html,unsafe_allow_html=True)
+    colour = html.escape(engine.color_label(c))
+    foil = " · foil" if c.get("foil") else ""
+
+    if show_img:
+        uri = image_data_uri(p)
+
+        body = ""
+        if rules and not compact:
+            body = f"""
+            <div class="rf-card-rules">
+                {rules}
+            </div>
+            """
+
+        card_html = f"""
+        <div class="rf-visual-card">
+            <img class="rf-card-image" src="{uri}">
+            {body}
+        </div>
+        """
+
+    else:
+        card_html = f"""
+        <div class="rf-visual-card rf-card-noimage">
+            <div class="rf-fallback-name">{name}</div>
+            <div class="rf-fallback-meta">
+                {mana} · {ctype} · {rarity}{foil} · {colour}
+            </div>
+            <div class="rf-card-rules">
+                {rules if rules else "—"}
+            </div>
+        </div>
+        """
+
+    st.markdown(card_html, unsafe_allow_html=True)
+
     if selectable_key:
-        st.checkbox("Nel mazzo",key=selectable_key)
+        st.checkbox("Nel mazzo", key=selectable_key)
 
 
 def card_names(cards):
@@ -670,3 +712,180 @@ with tab_model:
     st.warning("Le categorie Booster Fun pubblicate da Wizards come “meno dell'1%” non consentono una collation identitaria perfetta al decimale. Anche la distribuzione R/M della promo Prerelease non è pubblicata nel dettaglio. Il trainer usa assunzioni centrali esplicite per quei soli pezzi.")
     st.caption("Il punteggio di struttura e gli indici di fit sono euristiche del trainer, non valutazioni ufficiali Wizards né una tier list definitiva.")
     st.markdown("Fonti ufficiali: [Collecting Reality Fracture](https://magic.wizards.com/en/news/feature/collecting-reality-fracture) · [Reality Fracture Prerelease Guide](https://magic.wizards.com/en/news/feature/reality-fracture-prerelease-guide) · [Reality Fracture Mechanics](https://magic.wizards.com/en/news/feature/reality-fracture-mechanics)")
+
+
+<style>
+
+/* ---------- PALETTE ULTIMATE ---------- */
+
+.stApp {
+    background:
+        radial-gradient(circle at 85% 4%, rgba(121, 141, 166, 0.08), transparent 28rem),
+        radial-gradient(circle at 8% 92%, rgba(143, 126, 151, 0.06), transparent 30rem),
+        #F8F7F4;
+    color: #20262D;
+}
+
+.block-container {
+    max-width: 1450px;
+    padding-top: 1.8rem;
+    padding-bottom: 4rem;
+}
+
+/* ---------- TITOLI ---------- */
+
+h1 {
+    color: #20262D !important;
+    letter-spacing: -0.035em !important;
+    font-weight: 760 !important;
+}
+
+h2, h3 {
+    color: #29323B !important;
+    letter-spacing: -0.02em;
+}
+
+/* ---------- SIDEBAR ---------- */
+
+section[data-testid="stSidebar"] {
+    background: #F1F0ED;
+    border-right: 1px solid #E1DFDA;
+}
+
+section[data-testid="stSidebar"] hr {
+    border-color: #DCDAD5;
+}
+
+section[data-testid="stSidebar"] .stButton > button {
+    background: #FAFAF8;
+    border: 1px solid #D5D7D8;
+    border-radius: 12px;
+    color: #303941;
+}
+
+section[data-testid="stSidebar"] .stButton > button:hover {
+    border-color: #607D8B;
+    color: #455F6B;
+}
+
+/* ---------- TABS ---------- */
+
+.stTabs [data-baseweb="tab-list"] {
+    gap: 0.15rem;
+    border-bottom: 1px solid #DFDDD8;
+}
+
+.stTabs [data-baseweb="tab"] {
+    background: transparent;
+    border-radius: 8px 8px 0 0;
+    color: #5B626A;
+    padding: 0.55rem 0.8rem;
+}
+
+.stTabs [aria-selected="true"] {
+    color: #506D79 !important;
+    font-weight: 650;
+}
+
+/* ---------- EXPANDER BUSTE ---------- */
+
+div[data-testid="stExpander"] {
+    background: rgba(255,255,255,0.55);
+    border: 1px solid #E0DED9;
+    border-radius: 13px;
+    overflow: hidden;
+}
+
+div[data-testid="stExpander"] details summary:hover {
+    color: #506D79;
+}
+
+/* ---------- CARTA COMPLETA ---------- */
+
+.rf-visual-card {
+    background: #FFFFFF;
+    border: 1px solid #DFDDD8;
+    border-radius: 15px;
+    overflow: hidden;
+    margin: 0.3rem 0 1.25rem 0;
+    box-shadow:
+        0 3px 9px rgba(34, 42, 50, 0.045),
+        0 12px 28px rgba(34, 42, 50, 0.035);
+}
+
+/* l'immagine e il pannello sono realmente un blocco unico */
+.rf-card-image {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+}
+
+/* sotto la carta: SOLO rules text / abilità */
+.rf-card-rules {
+    padding: 0.8rem 0.9rem 0.88rem 0.9rem;
+    background: #FCFBF9;
+    border-top: 1px solid #E9E5DE;
+    color: #39434C;
+    font-size: 0.82rem;
+    line-height: 1.42;
+}
+
+/* fallback se manca un'immagine */
+.rf-card-noimage {
+    padding: 1rem;
+}
+
+.rf-fallback-name {
+    color: #232B32;
+    font-size: 1rem;
+    line-height: 1.25;
+    font-weight: 700;
+}
+
+.rf-fallback-meta {
+    margin-top: 0.28rem;
+    margin-bottom: 0.6rem;
+    color: #727981;
+    font-size: 0.77rem;
+}
+
+/* ---------- BUTTONS ---------- */
+
+.stButton > button {
+    border-radius: 11px;
+    border: 1px solid #D4D6D6;
+    background: #FFFFFF;
+    color: #303941;
+}
+
+.stButton > button:hover {
+    border-color: #607D8B;
+    color: #476571;
+}
+
+/* ---------- INPUT ---------- */
+
+div[data-baseweb="select"] > div,
+div[data-baseweb="input"] > div {
+    border-radius: 10px;
+}
+
+/* ---------- ACCENTO SECONDARIO ---------- */
+
+a {
+    color: #657E89;
+}
+
+div[data-testid="stAlert"] {
+    border-radius: 12px;
+}
+
+/* muted mauve, usato solo come sottotono */
+small, .small-note {
+    color: #77717B;
+}
+
+</style>
+
