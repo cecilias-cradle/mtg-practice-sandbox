@@ -1,0 +1,4248 @@
+[
+  {
+    "n": 1,
+    "name": "Emrakul, the Exigent Doom",
+    "mana": "10",
+    "mv": 10,
+    "colors": [],
+    "type": "Legendary Creature — Eldrazi",
+    "text": "When you cast this spell, untap all lands you control.\nFlying, trample\nWard—Sacrifice three permanents.\n, Exile this card from your hand: Target land gains “\n: Add\n” until\nthis card is cast from exile. You may cast this card for as long as it remains\nexiled.\n12/12",
+    "rarity": "M",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 2,
+    "name": "Academic Ascent",
+    "mana": "1W",
+    "mv": 2,
+    "colors": [
+      "W"
+    ],
+    "type": "Instant",
+    "text": "Target creature gets +2/+2 and gains flying until end of turn.\nEmpower Jace 2. (Put two loyalty counters on a Jace token you control. If\nyou don’t control one, first create a blue Jace planeswalker token with\n“[−1]: Surveil 1” and “[−3]: Draw a card.”)",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 3,
+    "name": "Blossom-Blessed Angel // Seed Suture",
+    "mana": "3W // G/W",
+    "mv": 4,
+    "colors": [
+      "W",
+      "G"
+    ],
+    "type": "Creature — Angel Cleric // Sorcery",
+    "text": "Flying, vigilance\nThis creature enters prepared. (While it’s prepared, you may cast a copy\nof its spell. Doing so unprepares it.)\n2/4\nSeed Suture\nSorcery\nPut a +1/+1 counter on target creature. You gain 1 life.",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 4,
+    "name": "Campus Crier",
+    "mana": "1W",
+    "mv": 2,
+    "colors": [
+      "W"
+    ],
+    "type": "Creature — Human Advisor",
+    "text": ", Exile this card from your graveyard: Empower Jace 2. (Put two loyalty\ncounters on a Jace token you control. If you don’t control one, first create a\nblue Jace planeswalker token with “[−1]: Surveil 1” and “[−3]: Draw a\ncard.”)\n3/1",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 5,
+    "name": "Enlightened Confidant",
+    "mana": "1W",
+    "mv": 2,
+    "colors": [
+      "W"
+    ],
+    "type": "Creature — Kor Cleric",
+    "text": "Lifelink\nAt the beginning of your end step, if you gained life this turn, surveil 1. If\nyou put a card with mana value less than or equal to the amount of life\nyou gained this turn into your graveyard this way, put that card into your\nhand.\n2/1",
+    "rarity": "M",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 6,
+    "name": "Fateshaper Aspirant",
+    "mana": "4W",
+    "mv": 5,
+    "colors": [
+      "W"
+    ],
+    "type": "Creature — Rhino Cleric",
+    "text": "When this creature enters, choose one —\n• Return target legendary card from your graveyard to your hand.\n• Put a +1/+1 counter on target creature. It gains vigilance and\nindestructible until end of turn. (Damage and effects that say “destroy”\ndon’t destroy it.)\n3/4",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 7,
+    "name": "Flickering Hound",
+    "mana": "3W",
+    "mv": 4,
+    "colors": [
+      "W"
+    ],
+    "type": "Creature — Dog",
+    "text": "Whenever you cast a creature spell, exile up to one other target creature\nyou control, then return that card to the battlefield under its owner’s\ncontrol.\n2/2",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 8,
+    "name": "Generous Revival",
+    "mana": "2W",
+    "mv": 3,
+    "colors": [
+      "W"
+    ],
+    "type": "Sorcery",
+    "text": "Return target creature card with mana value 3 or less from your\ngraveyard to the battlefield with an additional +1/+1 counter on it.\nFlashback\n(You may cast this card from your graveyard for its\nflashback cost. Then exile it.)",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 9,
+    "name": "Germinate Recruits",
+    "mana": "2W",
+    "mv": 3,
+    "colors": [
+      "W"
+    ],
+    "type": "Instant",
+    "text": "Create X 2/2 colorless Wizard Soldier creature tokens named Cadet,\nwhere X is the amount of life you gained this turn.",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 10,
+    "name": "Graft Surgeon",
+    "mana": "2W",
+    "mv": 3,
+    "colors": [
+      "W"
+    ],
+    "type": "Creature — Human Cleric",
+    "text": "This creature enters with a +1/+1 counter on it.\nWhen this creature dies, put its counters on up to one target creature\nyou control.\n2/2",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 11,
+    "name": "Guiding Hydra",
+    "mana": "XW",
+    "mv": 1,
+    "colors": [
+      "W"
+    ],
+    "type": "Creature — Hydra Horror",
+    "text": "This creature enters with X +1/+1 counters on it.\nAt the beginning of combat on your turn, you may remove a +1/+1\ncounter from this creature. If you do, put a +1/+1 counter on each other\ncreature you control.\n1/0",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 12,
+    "name": "Hexhaven Battalion",
+    "mana": "4WW",
+    "mv": 6,
+    "colors": [
+      "W"
+    ],
+    "type": "Sorcery",
+    "text": "Create three 2/2 colorless Wizard Soldier creature tokens named Cadet.\nEmpower Jace 2. (Put two loyalty counters on a Jace token you control. If\nyou don’t control one, first create a blue Jace planeswalker token with\n“[−1]: Surveil 1” and “[−3]: Draw a card.”)\nBasic landcycling\n(\n, Discard this card: Search your library for a\nbasic land card, reveal it, put it into your hand, then shuffle.)",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 13,
+    "name": "Kindred Judgment",
+    "mana": "5WW",
+    "mv": 7,
+    "colors": [
+      "W"
+    ],
+    "type": "Sorcery",
+    "text": "Choose a creature type. Destroy all creatures that aren’t of the chosen\ntype.",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 14,
+    "name": "Loyal Tutor",
+    "mana": "W",
+    "mv": 1,
+    "colors": [
+      "W"
+    ],
+    "type": "Instant",
+    "text": "Search your library for a planeswalker card, reveal it, then shuffle and put\nthat card on top.",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 15,
+    "name": "Memory Trap",
+    "mana": "2W",
+    "mv": 3,
+    "colors": [
+      "W"
+    ],
+    "type": "Enchantment",
+    "text": "When this enchantment enters, exile target nonland permanent an\nopponent controls until this enchantment leaves the battlefield.",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 16,
+    "name": "Predictive Preparations",
+    "mana": "1W",
+    "mv": 2,
+    "colors": [
+      "W"
+    ],
+    "type": "Sorcery",
+    "text": "Put a +1/+1 counter on each of one or two target creatures.\nFlashback\n(You may cast this card from your graveyard for its\nflashback cost. Then exile it.)",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 17,
+    "name": "Prophesied End",
+    "mana": "1W",
+    "mv": 2,
+    "colors": [
+      "W"
+    ],
+    "type": "Instant",
+    "text": "Destroy target creature. If it wasn’t attacking, its controller draws a card.",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 18,
+    "name": "Refute Destiny",
+    "mana": "1W",
+    "mv": 2,
+    "colors": [
+      "W"
+    ],
+    "type": "Sorcery",
+    "text": "Exile target creature or planeswalker that’s green or blue. Surveil 1.\n(Look at the top card of your library. You may put it into your\ngraveyard.)",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 19,
+    "name": "Repurposed Enforcer",
+    "mana": "1W",
+    "mv": 2,
+    "colors": [
+      "W"
+    ],
+    "type": "Creature — Human Soldier",
+    "text": "Whenever this creature attacks, empower Jace X, where X is the number\nof creatures you control. (Put that many loyalty counters on a Jace token\nyou control. If you don’t control one, first create a blue Jace planeswalker\ntoken with “[−1]: Surveil 1” and “[−3]: Draw a card.”)\n3/2",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 20,
+    "name": "Return to the Light Realms",
+    "mana": "7WW",
+    "mv": 9,
+    "colors": [
+      "W"
+    ],
+    "type": "Sorcery",
+    "text": "Return all nonland permanent cards from your graveyard to the\nbattlefield.",
+    "rarity": "M",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 21,
+    "name": "Shatterwing Pegasus",
+    "mana": "2W",
+    "mv": 3,
+    "colors": [
+      "W"
+    ],
+    "type": "Creature — Pegasus",
+    "text": "Flying\n: Creatures you control get +1/+1 until end of turn.\n2/3",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 22,
+    "name": "Surgical Precision",
+    "mana": "1W",
+    "mv": 2,
+    "colors": [
+      "W"
+    ],
+    "type": "Sorcery",
+    "text": "Choose one —\n• Destroy target creature with toughness 4 or greater. You gain 1 life.\n• You draw a card and gain 2 life.",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 23,
+    "name": "Unflinching Hortimancer",
+    "mana": "1W",
+    "mv": 2,
+    "colors": [
+      "W"
+    ],
+    "type": "Creature — Human Cleric",
+    "text": "Ward\n(Whenever this creature becomes the target of a spell or ability an\nopponent controls, counter it unless that player pays\n.)\nWhenever you gain life, put a +1/+1 counter on this creature.\n2/1",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 24,
+    "name": "Your Fate Ends Here",
+    "mana": "2W",
+    "mv": 3,
+    "colors": [
+      "W"
+    ],
+    "type": "Instant",
+    "text": "Destroy target creature or planeswalker with mana value 3 or greater.\nSurveil 1. (Look at the top card of your library. You may put it into your\ngraveyard.)",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 25,
+    "name": "Countersculpt",
+    "mana": "UU",
+    "mv": 2,
+    "colors": [
+      "U"
+    ],
+    "type": "Instant",
+    "text": "As an additional cost to cast this spell, behold a Jace or pay\n. (To\nbehold a Jace, choose a Jace you control or reveal a Jace card from your\nhand.)\nCounter target spell. Empower Jace 1. (Put a loyalty counter on a Jace\ntoken you control. If you don’t control one, first create a blue Jace\nplaneswalker token with “[−1]: Surveil 1” and “[−3]: Draw a card.”)",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 26,
+    "name": "Cruel Calculations",
+    "mana": "2U",
+    "mv": 3,
+    "colors": [
+      "U"
+    ],
+    "type": "Sorcery",
+    "text": "Draw X cards, where X is the number of cards that were put into target\nplayer’s graveyard from their library this turn.",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 27,
+    "name": "Cryotheory Adept",
+    "mana": "1U",
+    "mv": 2,
+    "colors": [
+      "U"
+    ],
+    "type": "Creature — Human Wizard",
+    "text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1\nuntil end of turn.)\n, Exile this card from your graveyard: Tap target creature and put a\nstun counter on it. Activate only as a sorcery. (If a permanent with a stun\ncounter would become untapped, remove one from it instead.)\n2/1",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 28,
+    "name": "Diviner of Victory // Unwind History",
+    "mana": "U // 1U",
+    "mv": 1,
+    "colors": [
+      "U"
+    ],
+    "type": "Creature — Dwarf Wizard // Sorcery",
+    "text": "This creature enters prepared. (While it’s prepared, you may cast a copy\nof its spell. Doing so unprepares it.)\nWhenever you scry or surveil, this creature gets +1/+1 until end of turn.\n1/1\nUnwind History\nSorcery\nReturn target creature an opponent controls with mana value 3 or less to\nits owner’s hand. Surveil 1.",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 29,
+    "name": "Divining Duelist",
+    "mana": "2U",
+    "mv": 3,
+    "colors": [
+      "U"
+    ],
+    "type": "Creature — Merfolk Wizard",
+    "text": "Flash\nWhen this creature enters, choose one —\n• Tap target creature.\n• Untap target creature.\n• Draw a card, then discard a card.\n3/2",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 30,
+    "name": "Icy Reception",
+    "mana": "1U",
+    "mv": 2,
+    "colors": [
+      "U"
+    ],
+    "type": "Instant",
+    "text": "Choose one —\n• Counter target creature or legendary spell unless its controller pays\n.\n• Target creature gets -5/-0 until end of turn.",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 31,
+    "name": "Infinite Coursework",
+    "mana": "2U",
+    "mv": 3,
+    "colors": [
+      "U"
+    ],
+    "type": "Enchantment — Aura",
+    "text": "Enchant creature\nWhen this Aura enters, tap enchanted creature. It becomes unprepared.\nEnchanted creature loses all abilities and doesn’t untap during its\ncontroller’s untap step.",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 32,
+    "name": "Jace's Machinations",
+    "mana": "2U",
+    "mv": 3,
+    "colors": [
+      "U"
+    ],
+    "type": "Instant",
+    "text": "Until end of turn, you may activate loyalty abilities of Jace planeswalkers\nyou control on any player’s turn any time you could cast an instant.\nEmpower Jace 8. (Put eight loyalty counters on a Jace token you control.\nIf you don’t control one, first create a blue Jace planeswalker token with\n“[−1]: Surveil 1” and “[−3]: Draw a card.”)",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 33,
+    "name": "Mindseeker Oculus",
+    "mana": "2U",
+    "mv": 3,
+    "colors": [
+      "U"
+    ],
+    "type": "Creature — Homunculus",
+    "text": "When this creature enters, empower Jace 4. (Put four loyalty counters on\na Jace token you control. If you don’t control one, first create a blue Jace\nplaneswalker token with “[−1]: Surveil 1” and “[−3]: Draw a card.”)\n2/1",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 34,
+    "name": "Perfected Theory",
+    "mana": "U",
+    "mv": 1,
+    "colors": [
+      "U"
+    ],
+    "type": "Instant",
+    "text": "Choose one —\n• Target creature has base power and toughness 1/1 until end of turn.\n• Target creature has base power and toughness 4/5 until end of turn.",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 35,
+    "name": "Plan for All Outcomes",
+    "mana": "3U",
+    "mv": 4,
+    "colors": [
+      "U"
+    ],
+    "type": "Enchantment",
+    "text": "When this enchantment enters, the owner of up to one other target\nnonland permanent puts it on their choice of the top or bottom of their\nlibrary.\nWhenever you cast your first noncreature spell each turn, empower Jace\n1. (Put a loyalty counter on a Jace token you control. If you don’t control\none, first create a blue Jace planeswalker token with “[−1]: Surveil 1”\nand “[−3]: Draw a card.”)",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 36,
+    "name": "Precise Redaction",
+    "mana": "1U",
+    "mv": 2,
+    "colors": [
+      "U"
+    ],
+    "type": "Instant",
+    "text": "Counter target white or black spell.",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 37,
+    "name": "Protege's Awakening",
+    "mana": "3U",
+    "mv": 4,
+    "colors": [
+      "U"
+    ],
+    "type": "Sorcery",
+    "text": "Empower Jace 6. (Put six loyalty counters on a Jace token you control. If\nyou don’t control one, first create a blue Jace planeswalker token with\n“[−1]: Surveil 1” and “[−3]: Draw a card.”)\nDraw a card.",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 38,
+    "name": "Seasoned Cryomancer",
+    "mana": "1UU",
+    "mv": 3,
+    "colors": [
+      "U"
+    ],
+    "type": "Creature — Human Wizard",
+    "text": "When this creature enters, draw two cards, then discard two cards.\nWhen you discard one or more nonland cards this way, tap up to that\nmany target creatures and put a stun counter on each of them.\n, Exile this card from your graveyard: Draw two cards.\n2/2",
+    "rarity": "M",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 39,
+    "name": "Semester Foreseer // Peer Review",
+    "mana": "3U // 2W/U",
+    "mv": 4,
+    "colors": [
+      "W",
+      "U"
+    ],
+    "type": "Creature — Human Wizard // Sorcery",
+    "text": "This creature enters prepared. (While it’s prepared, you may cast a copy\nof its spell. Doing so unprepares it.)\nWhen this creature enters, surveil 1.\n3/4\nPeer Review\nSorcery\nCreate a 2/2 colorless Wizard Soldier creature token named Cadet.\nSurveil 1.",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 40,
+    "name": "Sphinx of False Conclusions",
+    "mana": "2UU",
+    "mv": 4,
+    "colors": [
+      "U"
+    ],
+    "type": "Creature — Sphinx Illusion",
+    "text": "Flash\nFlying\nWhenever this creature attacks, draw a card, then discard a card.\nWhen this creature dies, if it isn’t a token, create a token that’s a copy of\nit.\n4/2",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 41,
+    "name": "Sphinx's Approach",
+    "mana": "1UU",
+    "mv": 3,
+    "colors": [
+      "U"
+    ],
+    "type": "Instant",
+    "text": "Draw two cards. Then you may exile this spell and four cards named\nSphinx’s Approach from your graveyard. If you do, search your library for\na Sphinx creature card, put it onto the battlefield, then shuffle.\nA deck can have any number of cards named Sphinx’s Approach.",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 42,
+    "name": "Surveillance Phantasm",
+    "mana": "1U",
+    "mv": 2,
+    "colors": [
+      "U"
+    ],
+    "type": "Creature — Bird Illusion",
+    "text": "Defender, flying, vigilance\nAs long as you’ve scried or surveilled this turn, this creature can attack as\nthough it didn’t have defender.\n: Surveil 1. (Look at the top card of your library. You may put it into\nyour graveyard.)\n2/3",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 43,
+    "name": "The Theorist, Jace Beleren",
+    "mana": "2UU",
+    "mv": 4,
+    "colors": [
+      "U"
+    ],
+    "type": "Legendary Planeswalker — Jace",
+    "text": "At the beginning of each opponent’s draw step, you draw a card.\n+1: Create a 1/1 blue Illusion creature token.\n−2: For each opponent, return up to one target artifact or creature that\nplayer controls to its owner’s hand.\n−6: Draw three cards. Then put X +1/+1 counters on each creature you\ncontrol, where X is the number of cards in your hand.\nLoyalty: 3",
+    "rarity": "M",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 44,
+    "name": "Theorist's Proxy",
+    "mana": "1U",
+    "mv": 2,
+    "colors": [
+      "U"
+    ],
+    "type": "Creature — Illusion",
+    "text": "Flash\nWhen this creature enters, empower Jace 3. (Put three loyalty counters\non a Jace token you control. If you don’t control one, first create a blue\nJace planeswalker token with “[−1]: Surveil 1” and “[−3]: Draw a\ncard.”)\n, Sacrifice this creature: The next spell you cast this turn can’t be\ncountered.\n0/3",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 45,
+    "name": "Undulating Witness",
+    "mana": "4U",
+    "mv": 5,
+    "colors": [
+      "U"
+    ],
+    "type": "Creature — Serpent",
+    "text": "Flying\n: This creature gets +1/-1 until end of turn.\nBasic landcycling\n(\n, Discard this card: Search your library for a\nbasic land card, reveal it, put it into your hand, then shuffle.)\n3/5",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 46,
+    "name": "Unsummon",
+    "mana": "U",
+    "mv": 1,
+    "colors": [
+      "U"
+    ],
+    "type": "Instant",
+    "text": "Return target creature to its owner’s hand.",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 47,
+    "name": "Variable Chaser // Arc of Fortune",
+    "mana": "2U // 2U",
+    "mv": 3,
+    "colors": [
+      "U"
+    ],
+    "type": "Creature — Human Wizard // Sorcery",
+    "text": "Flying, prowess\nThis creature enters prepared. (While it’s prepared, you may cast a copy\nof its spell. Doing so unprepares it.)\n2/3\nArc of Fortune\nSorcery\nEach player may discard their hand and draw seven cards.",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 48,
+    "name": "Apex Witchstalker",
+    "mana": "4BB",
+    "mv": 6,
+    "colors": [
+      "B"
+    ],
+    "type": "Creature — Wolf",
+    "text": "Menace (This creature can’t be blocked except by two or more creatures.)\nWhen this creature enters or dies, you gain 2 life.\nBasic landcycling\n(\n, Discard this card: Search your library for a\nbasic land card, reveal it, put it into your hand, then shuffle.)\n6/4",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 49,
+    "name": "Bloodline Recollector // Ancestral Craving",
+    "mana": "1B // B",
+    "mv": 2,
+    "colors": [
+      "B"
+    ],
+    "type": "Creature — Vampire Warlock // Instant",
+    "text": "At the beginning of each end step, if three or more creatures died this\nturn, this creature becomes prepared. (While it’s prepared, you may cast\na copy of its spell. Doing so unprepares it.)\n2/2\nAncestral Craving\nInstant\nTarget player draws three cards and loses 3 life.",
+    "rarity": "M",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 50,
+    "name": "Break Under Pressure",
+    "mana": "2B",
+    "mv": 3,
+    "colors": [
+      "B"
+    ],
+    "type": "Instant",
+    "text": "Target opponent sacrifices a creature or planeswalker with the greatest\nmana value among creatures and planeswalkers they control. You gain 2\nlife.",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 51,
+    "name": "Cast Away Doubt",
+    "mana": "2B",
+    "mv": 3,
+    "colors": [
+      "B"
+    ],
+    "type": "Sorcery",
+    "text": "Draw two cards. Cast Away Doubt deals 2 damage to each player.",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 52,
+    "name": "Dark Matter Manipulator",
+    "mana": "B",
+    "mv": 1,
+    "colors": [
+      "B"
+    ],
+    "type": "Creature — Human Warlock",
+    "text": "When this creature enters, mill three cards.\nThis creature gets +2/+0 for every seven cards in your graveyard.\n1/2",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 53,
+    "name": "Darklight Phoenix",
+    "mana": "3B",
+    "mv": 4,
+    "colors": [
+      "B"
+    ],
+    "type": "Creature — Phoenix",
+    "text": "Flying, haste\nAt the beginning of combat on your turn, if two or more creatures died\nthis turn, return this card from your graveyard to the battlefield.\n3/2",
+    "rarity": "M",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 54,
+    "name": "Extended Absence",
+    "mana": "3B",
+    "mv": 4,
+    "colors": [
+      "B"
+    ],
+    "type": "Instant",
+    "text": "Exile target creature or planeswalker. Extended Absence deals 1 damage\nto each opponent and you gain 1 life.",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 55,
+    "name": "Extrapolate the Impossible",
+    "mana": "1B",
+    "mv": 2,
+    "colors": [
+      "B"
+    ],
+    "type": "Sorcery",
+    "text": "You may reveal exactly two cards you own with different names from\noutside the game. An opponent chooses one of them. You put that card\ninto your hand.",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 56,
+    "name": "Last Gasp",
+    "mana": "1B",
+    "mv": 2,
+    "colors": [
+      "B"
+    ],
+    "type": "Instant",
+    "text": "Target creature gets -3/-3 until end of turn.",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 57,
+    "name": "Lich's Relic",
+    "mana": "B",
+    "mv": 1,
+    "colors": [
+      "B"
+    ],
+    "type": "Artifact — Equipment",
+    "text": "When this Equipment enters, you may pay\n. When you do, for each\nopponent, destroy up to one target creature or planeswalker that player\ncontrols.\nEquipped creature gets +2/+1.\nEquip",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 58,
+    "name": "Multiply by Zero",
+    "mana": "1B",
+    "mv": 2,
+    "colors": [
+      "B"
+    ],
+    "type": "Instant",
+    "text": "Target creature has base power and toughness 0/0 until end of turn.",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 59,
+    "name": "Overwrite the Multiverse",
+    "mana": "4BB",
+    "mv": 6,
+    "colors": [
+      "B"
+    ],
+    "type": "Sorcery",
+    "text": "Exile all creatures. Empower Jace X, where X is the number of creatures\nexiled this way. (Put that many loyalty counters on a Jace token you\ncontrol. If you don’t control one, first create a blue Jace planeswalker\ntoken with “[−1]: Surveil 1” and “[−3]: Draw a card.”)",
+    "rarity": "M",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 60,
+    "name": "Rampart Hunter",
+    "mana": "3B",
+    "mv": 4,
+    "colors": [
+      "B"
+    ],
+    "type": "Creature — Horror",
+    "text": "Deathtouch\nWhen this creature enters, target creature gets +2/+2 and gains\ndeathtouch until end of turn.\n3/3",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 61,
+    "name": "Rank Rat",
+    "mana": "1B",
+    "mv": 2,
+    "colors": [
+      "B"
+    ],
+    "type": "Creature — Zombie Rat",
+    "text": "When this creature enters, each opponent discards a card.\n1/1",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 62,
+    "name": "Rewrite Regrets",
+    "mana": "3B",
+    "mv": 4,
+    "colors": [
+      "B"
+    ],
+    "type": "Sorcery",
+    "text": "Return target creature or planeswalker card with mana value 6 or less\nfrom your graveyard to the battlefield.\nEmpower Jace 2. (Put two loyalty counters on a Jace token you control. If\nyou don’t control one, first create a blue Jace planeswalker token with\n“[−1]: Surveil 1” and “[−3]: Draw a card.”)",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 63,
+    "name": "Rise of the Deathbringer",
+    "mana": "4B",
+    "mv": 5,
+    "colors": [
+      "B"
+    ],
+    "type": "Instant",
+    "text": "Choose one —\n• Draw cards equal to the greatest power among creatures you control.\nYou lose life equal to the number of cards drawn this way.\n• All creatures get -3/-3 until end of turn.",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 64,
+    "name": "Sanctum Lurker",
+    "mana": "2B",
+    "mv": 3,
+    "colors": [
+      "B"
+    ],
+    "type": "Creature — Horror",
+    "text": "When this creature enters, empower Jace 1.\nPlaneswalkers you control aren’t put into their owners’ graveyards for\nhaving 0 loyalty.\nPlaneswalkers you control have “[+2]: This planeswalker deals 1 damage\nto each opponent and you gain 1 life.”\n3/2",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 65,
+    "name": "Screeching Soulbreaker",
+    "mana": "2B",
+    "mv": 3,
+    "colors": [
+      "B"
+    ],
+    "type": "Creature — Siren Bard",
+    "text": "Flying\nWhenever this creature attacks, it deals 1 damage to each opponent and\nyou gain 1 life.\n1/4",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 66,
+    "name": "Silence the Echo",
+    "mana": "1B",
+    "mv": 2,
+    "colors": [
+      "B"
+    ],
+    "type": "Sorcery",
+    "text": "As an additional cost to cast this spell, sacrifice a creature or\nplaneswalker or pay\n.\nDestroy target creature or planeswalker.",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 67,
+    "name": "Solve for Disappointment",
+    "mana": "1B",
+    "mv": 2,
+    "colors": [
+      "B"
+    ],
+    "type": "Sorcery",
+    "text": "Target opponent reveals their hand. You choose a nonland permanent\ncard from it. That player discards that card.\nEmpower Jace 1. (Put a loyalty counter on a Jace token you control. If\nyou don’t control one, first create a blue Jace planeswalker token with\n“[−1]: Surveil 1” and “[−3]: Draw a card.”)",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 68,
+    "name": "Terminal Criticism",
+    "mana": "1B",
+    "mv": 2,
+    "colors": [
+      "B"
+    ],
+    "type": "Instant",
+    "text": "Destroy target creature or planeswalker that’s blue or red. You gain 1 life.",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 69,
+    "name": "Theoretical Necromancer",
+    "mana": "2B",
+    "mv": 3,
+    "colors": [
+      "B"
+    ],
+    "type": "Creature — Vampire Warlock",
+    "text": ", Exile this card from your graveyard: Return another target creature\ncard from your graveyard to your hand.\n4/1",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 70,
+    "name": "Void Extrapolator // Omit Variables",
+    "mana": "1B // U/B",
+    "mv": 2,
+    "colors": [
+      "U",
+      "B"
+    ],
+    "type": "Creature — Aetherborn Warlock // Sorcery",
+    "text": "This creature enters prepared. (While it’s prepared, you may cast a copy\nof its spell. Doing so unprepares it.)\nThreshold — This creature gets +1/+1 as long as there are seven or more\ncards in your graveyard.\n2/2\nOmit Variables\nSorcery\nMill three cards. (Put the top three cards of your library into your\ngraveyard.)",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 71,
+    "name": "Vraska's Final Mercy",
+    "mana": "BB",
+    "mv": 2,
+    "colors": [
+      "B"
+    ],
+    "type": "Sorcery",
+    "text": "Choose one —\n• You lose 2 life. Destroy target creature or planeswalker.\n• You lose 2 life. Empower Jace 6. (Put six loyalty counters on a Jace\ntoken you control. If you don’t control one, first create a blue Jace\nplaneswalker token with “[−1]: Surveil 1” and “[−3]: Draw a card.”)",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 72,
+    "name": "Ajani's Anguish",
+    "mana": "XR",
+    "mv": 1,
+    "colors": [
+      "R"
+    ],
+    "type": "Enchantment",
+    "text": "When this enchantment enters, it deals X damage to any target.\nCreatures you control have trample.",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 73,
+    "name": "Artifist Acumen",
+    "mana": "R",
+    "mv": 1,
+    "colors": [
+      "R"
+    ],
+    "type": "Sorcery",
+    "text": "Creatures you control gain first strike until end of turn.\nDraw a card.",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 74,
+    "name": "Awaken the Inferno",
+    "mana": "4R",
+    "mv": 5,
+    "colors": [
+      "R"
+    ],
+    "type": "Sorcery",
+    "text": "Awaken the Inferno deals 6 damage to target creature or planeswalker\nan opponent controls. Put a +1/+1 counter on up to one target creature\nyou control.\nBasic landcycling\n(\n, Discard this card: Search your library for a\nbasic land card, reveal it, put it into your hand, then shuffle.)",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 75,
+    "name": "Blazing Crescendo",
+    "mana": "1R",
+    "mv": 2,
+    "colors": [
+      "R"
+    ],
+    "type": "Instant",
+    "text": "Target creature gets +3/+1 until end of turn.\nExile the top card of your library. Until the end of your next turn, you may\nplay that card.",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 76,
+    "name": "Chandra's Emberling",
+    "mana": "2R",
+    "mv": 3,
+    "colors": [
+      "R"
+    ],
+    "type": "Creature — Gremlin Elemental",
+    "text": "Haste\nWhenever you cast a noncreature spell, put a +1/+1 counter on this\ncreature.\n2/2",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 77,
+    "name": "Command the Stage",
+    "mana": "2R",
+    "mv": 3,
+    "colors": [
+      "R"
+    ],
+    "type": "Sorcery",
+    "text": "Create a 2/2 colorless Wizard Soldier creature token named Cadet, then\nput a +1/+1 counter on each other Wizard token you control.\nAt the beginning of each upkeep, if an opponent was dealt noncombat\ndamage last turn, return this card from your graveyard to your hand.",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 78,
+    "name": "Craterclaw Colossus",
+    "mana": "4RRR",
+    "mv": 7,
+    "colors": [
+      "R"
+    ],
+    "type": "Artifact Creature — Beast Construct",
+    "text": "Haste\nWhen this creature enters, creatures you control gain trample and get\n+X/+0 until end of turn, where X is the number of artifacts you control.\n5/5",
+    "rarity": "M",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 79,
+    "name": "Curse-Marred Demon",
+    "mana": "2RR",
+    "mv": 4,
+    "colors": [
+      "R"
+    ],
+    "type": "Creature — Demon",
+    "text": "Flying, trample\nWhen this creature enters, search your library for a card, put it into your\nhand, shuffle, then discard a card at random.\n4/4",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 80,
+    "name": "Draconic Visitor",
+    "mana": "3RR",
+    "mv": 5,
+    "colors": [
+      "R"
+    ],
+    "type": "Creature — Dragon",
+    "text": "Flying\nIf one or more artifact tokens would be created under your control, that\nmany 5/5 red Dragon creature tokens with flying are created instead.\n5/5",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 81,
+    "name": "Eardrum Rattler",
+    "mana": "1R",
+    "mv": 2,
+    "colors": [
+      "R"
+    ],
+    "type": "Creature — Human Bard",
+    "text": ",\n: Another target creature you control with power 2 or less can’t be\nblocked this turn.\n2/2",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 82,
+    "name": "Essence Burn",
+    "mana": "1R",
+    "mv": 2,
+    "colors": [
+      "R"
+    ],
+    "type": "Instant",
+    "text": "Essence Burn deals 5 damage to target black or green creature or\nplaneswalker. If that permanent would die this turn, exile it instead.",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 83,
+    "name": "Face Yourself",
+    "mana": "5RR",
+    "mv": 7,
+    "colors": [
+      "R"
+    ],
+    "type": "Sorcery",
+    "text": "For each creature target player controls, create a token that’s a copy of\nthat creature, except it has haste and “At the beginning of the end step, if\nyou don’t control a planeswalker, sacrifice this creature.”",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 84,
+    "name": "Fulminous Forte",
+    "mana": "2R",
+    "mv": 3,
+    "colors": [
+      "R"
+    ],
+    "type": "Instant",
+    "text": "Choose one —\n• Fulminous Forte deals 1 damage to each creature and planeswalker\nyour opponents control.\n• Fulminous Forte deals 5 damage to target creature or planeswalker.",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 85,
+    "name": "Hallway Heckler // Vicious Verse",
+    "mana": "2R // B/R",
+    "mv": 3,
+    "colors": [
+      "B",
+      "R"
+    ],
+    "type": "Creature — Elemental Sorcerer // Sorcery",
+    "text": "This creature enters prepared. (While it’s prepared, you may cast a copy\nof its spell. Doing so unprepares it.)\n, Discard a card: Draw a card.\n2/3\nVicious Verse\nSorcery\nVicious Verse deals 1 damage to target opponent.",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 86,
+    "name": "Heartstring Puller",
+    "mana": "3R",
+    "mv": 4,
+    "colors": [
+      "R"
+    ],
+    "type": "Creature — Elf Sorcerer",
+    "text": "Trample\nWhen this creature enters, create a 2/2 colorless Wizard Soldier creature\ntoken named Cadet.\n3/1",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 87,
+    "name": "Identity Echo",
+    "mana": "2R",
+    "mv": 3,
+    "colors": [
+      "R"
+    ],
+    "type": "Enchantment",
+    "text": ": Exile target creature or planeswalker you control. Reveal cards\nfrom the top of your library until you reveal a creature or planeswalker\ncard. Put that card onto the battlefield and the rest on the bottom of\nyour library in a random order. Activate only as a sorcery.",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 88,
+    "name": "Master of Barbs",
+    "mana": "1R",
+    "mv": 2,
+    "colors": [
+      "R"
+    ],
+    "type": "Creature — Lizard Bard",
+    "text": "Menace\nWhenever one or more opponents are dealt noncombat damage,\ncreatures you control get +1/+0 until end of turn.\n2/1",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 89,
+    "name": "No Admittance",
+    "mana": "1R",
+    "mv": 2,
+    "colors": [
+      "R"
+    ],
+    "type": "Sorcery",
+    "text": "No Admittance deals 3 damage to any target.\nEmpower Jace 1. (Put a loyalty counter on a Jace token you control. If\nyou don’t control one, first create a blue Jace planeswalker token with\n“[−1]: Surveil 1” and “[−3]: Draw a card.”)",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 90,
+    "name": "Pompous Battlemage // Improvised Act",
+    "mana": "R // R",
+    "mv": 1,
+    "colors": [
+      "R"
+    ],
+    "type": "Creature — Goblin Sorcerer // Sorcery",
+    "text": "Prowess\nThis creature enters prepared. (While it’s prepared, you may cast a copy\nof its spell. Doing so unprepares it.)\n1/1\nImprovised Act\nSorcery\nYou may discard a card. If you do, draw a card.",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 91,
+    "name": "Pyre Rhymer // Molten Tide",
+    "mana": "1RR // R",
+    "mv": 3,
+    "colors": [
+      "R"
+    ],
+    "type": "Creature — Elemental Sorcerer // Instant",
+    "text": "Prowess\nThis creature enters prepared. (While it’s prepared, you may cast a copy\nof its spell. Doing so unprepares it.)\n3/3\nMolten Tide\nInstant\nUntil end of turn, whenever you tap a Mountain for mana, add an\nadditional\n.",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 92,
+    "name": "Skilled Battlecarver",
+    "mana": "1R",
+    "mv": 2,
+    "colors": [
+      "R"
+    ],
+    "type": "Creature — Human Warrior",
+    "text": "During your turn, this creature has first strike.\n: This creature gets +1/+0 until end of turn.\n2/1",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 93,
+    "name": "Stingcaster Mage",
+    "mana": "1R",
+    "mv": 2,
+    "colors": [
+      "R"
+    ],
+    "type": "Creature — Human Wizard",
+    "text": "Haste\nWhen this creature enters, target instant or sorcery card in your\ngraveyard gains flashback until end of turn. The flashback cost is equal to\nits mana cost. (You may cast that card from your graveyard for its\nflashback cost. Then exile it.)\n2/1",
+    "rarity": "M",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 94,
+    "name": "Tether Technician",
+    "mana": "4R",
+    "mv": 5,
+    "colors": [
+      "R"
+    ],
+    "type": "Creature — Minotaur Artificer",
+    "text": "Reach\nWhen this creature enters, you may discard a card. When you do, this\ncreature deals 2 damage to any target.\n4/5",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 95,
+    "name": "Violent Echoes",
+    "mana": "2RR",
+    "mv": 4,
+    "colors": [
+      "R"
+    ],
+    "type": "Instant",
+    "text": "Violent Echoes deals 6 damage to target creature or planeswalker. If\nexcess damage was dealt to that permanent this way, empower Jace X,\nwhere X is that excess damage. (Put that many loyalty counters on a Jace\ntoken you control. If you don’t control one, first create a blue Jace\nplaneswalker token with “[−1]: Surveil 1” and “[−3]: Draw a card.”)",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 96,
+    "name": "Wrath of the Bloodmane",
+    "mana": "2R",
+    "mv": 3,
+    "colors": [
+      "R"
+    ],
+    "type": "Instant",
+    "text": "This spell costs\nless to cast if you control a legendary creature.\nWrath of the Bloodmane deals 4 damage to target creature or\nplaneswalker.",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 97,
+    "name": "Arcane Amphisbaena",
+    "mana": "1G",
+    "mv": 2,
+    "colors": [
+      "G"
+    ],
+    "type": "Creature — Snake",
+    "text": "Deathtouch\nWhen this creature enters, empower Jace 2. (Put two loyalty counters on\na Jace token you control. If you don’t control one, first create a blue Jace\nplaneswalker token with “[−1]: Surveil 1” and “[−3]: Draw a card.”)\n1/1",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 98,
+    "name": "Bestial Incursion",
+    "mana": "3G",
+    "mv": 4,
+    "colors": [
+      "G"
+    ],
+    "type": "Sorcery",
+    "text": "Create a 4/4 green Beast creature token with trample.\nFlashback\n(You may cast this card from your graveyard for its\nflashback cost. Then exile it.)",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 99,
+    "name": "Budding Insurgent",
+    "mana": "2G",
+    "mv": 3,
+    "colors": [
+      "G"
+    ],
+    "type": "Creature — Dryad Scout",
+    "text": "Vigilance\nSacrifice this creature: Destroy target artifact or enchantment. If that\npermanent was a legendary enchantment, draw a card. Activate only as a\nsorcery.\n3/3",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 100,
+    "name": "Carnivorous Cultivator // Enroot",
+    "mana": "1G // G",
+    "mv": 2,
+    "colors": [
+      "G"
+    ],
+    "type": "Creature — Elf Warlock // Sorcery",
+    "text": "Deathtouch\nThis creature enters prepared.\nWhenever this creature deals combat damage to a player, return target\nland card from your graveyard to your hand.\n2/3\nEnroot\nSorcery\nSearch your library for a land card, put it into your graveyard, then\nshuffle.",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 101,
+    "name": "Compel Brutality",
+    "mana": "1G",
+    "mv": 2,
+    "colors": [
+      "G"
+    ],
+    "type": "Instant",
+    "text": "Choose one —\n• Target creature you control deals damage equal to its power to target\ncreature or planeswalker an opponent controls.\n• Target planeswalker you control deals damage equal to its loyalty to\ntarget creature or planeswalker an opponent controls.",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 102,
+    "name": "Flourishing Grapple",
+    "mana": "G",
+    "mv": 1,
+    "colors": [
+      "G"
+    ],
+    "type": "Instant",
+    "text": "Target creature or planeswalker an opponent controls that’s red or white\nloses all abilities until end of turn. Target creature you control deals\ndamage equal to its power to that permanent.",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 103,
+    "name": "Gardenize",
+    "mana": "1GG",
+    "mv": 3,
+    "colors": [
+      "G"
+    ],
+    "type": "Enchantment",
+    "text": "Whenever a creature you control dies, put a charge counter on this\nenchantment.\nAt the beginning of your first main phase, add\nfor each charge counter\non this enchantment.",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 104,
+    "name": "Greenhouse Propagator",
+    "mana": "2G",
+    "mv": 3,
+    "colors": [
+      "G"
+    ],
+    "type": "Creature — Cat Druid",
+    "text": "Whenever another creature you control enters, you gain 1 life.\n: Add\n.\n2/3",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 105,
+    "name": "Heartwood Crafter // Soul Tether",
+    "mana": "G // 2R/G",
+    "mv": 1,
+    "colors": [
+      "R",
+      "G"
+    ],
+    "type": "Creature — Elf Artificer // Sorcery",
+    "text": "This creature enters prepared. (While it’s prepared, you may cast a copy\nof its spell. Doing so unprepares it.)\n: Add\n. This mana can’t be spent to cast spells from your hand.\n1/1\nSoul Tether\nSorcery\nCreate a Heartwood token. (It’s a red and green artifact with “\n: Add\nor\n.”)",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 106,
+    "name": "Hexhaven Invigorator",
+    "mana": "GGGG",
+    "mv": 4,
+    "colors": [
+      "G"
+    ],
+    "type": "Creature — Chimera Horror",
+    "text": "Vigilance\nWhenever this creature is dealt damage, you may search your library for\nup to that many land cards, put them onto the battlefield tapped, then\nshuffle.\n6/6",
+    "rarity": "M",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 107,
+    "name": "Hungering Puppetbeast",
+    "mana": "3GG",
+    "mv": 5,
+    "colors": [
+      "G"
+    ],
+    "type": "Artifact Creature — Beast Construct",
+    "text": "When this creature enters, create a Heartwood token. (It’s a red and\ngreen artifact with “\n: Add\nor\n.”)\n, Sacrifice another artifact: Put a +1/+1 counter on this creature. It\ngains your choice of trample, hexproof, or haste until end of turn.\n5/5",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 108,
+    "name": "Hunter's Axe",
+    "mana": "G",
+    "mv": 1,
+    "colors": [
+      "G"
+    ],
+    "type": "Artifact — Equipment",
+    "text": "Equipped creature gets +2/+0 and has “Whenever this creature attacks,\nit gains your choice of trample or deathtouch until end of turn.”\nEquip\n(\n: Attach to target creature you control. Equip only as a\nsorcery.)",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 109,
+    "name": "Inspired Tethermage",
+    "mana": "2G",
+    "mv": 3,
+    "colors": [
+      "G"
+    ],
+    "type": "Creature — Elf Warrior",
+    "text": "Whenever you put one or more loyalty counters on a planeswalker, put a\n+1/+1 counter on this creature.\n: Empower Jace 2. (Put two loyalty counters on a Jace token you\ncontrol. If you don’t control one, first create a blue Jace planeswalker\ntoken with “[−1]: Surveil 1” and “[−3]: Draw a card.”)\n3/2",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 110,
+    "name": "Omnipresence",
+    "mana": "5GGG",
+    "mv": 8,
+    "colors": [
+      "G"
+    ],
+    "type": "Enchantment",
+    "text": "You may cast spells with mana value less than or equal to the number of\ncreatures you control from your hand without paying their mana costs.",
+    "rarity": "M",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 111,
+    "name": "Puppet Crafting",
+    "mana": "1G",
+    "mv": 2,
+    "colors": [
+      "G"
+    ],
+    "type": "Enchantment — Aura",
+    "text": "Enchant artifact or non-Aura enchantment\nEnchanted permanent is a Construct creature with base power and\ntoughness 5/5 in addition to its other types.\n: Return this card from your graveyard to your hand.",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 112,
+    "name": "Restore with Empathy",
+    "mana": "2G",
+    "mv": 3,
+    "colors": [
+      "G"
+    ],
+    "type": "Instant",
+    "text": "Return target permanent card from your graveyard to your hand. You\ngain 4 life.",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 113,
+    "name": "Simulacrum Shaper",
+    "mana": "1GG",
+    "mv": 3,
+    "colors": [
+      "G"
+    ],
+    "type": "Creature — Elf Druid",
+    "text": "When this creature enters, you may search your library for a basic land\ncard, put that card onto the battlefield tapped, then shuffle.\nWhen this creature dies, draw a card.\n2/2",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 114,
+    "name": "Something Worth Saving",
+    "mana": "1G",
+    "mv": 2,
+    "colors": [
+      "G"
+    ],
+    "type": "Instant",
+    "text": "Mill four cards. You may put a permanent card from among them into\nyour hand. You gain 1 life. (To mill four cards, put the top four cards of\nyour library into your graveyard.)",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 115,
+    "name": "Sureshot Sower",
+    "mana": "1G",
+    "mv": 2,
+    "colors": [
+      "G"
+    ],
+    "type": "Creature — Human Archer",
+    "text": "Reach\n, Discard this card: Destroy target creature with flying.\n3/1",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 116,
+    "name": "Tarmogoyf",
+    "mana": "1G",
+    "mv": 2,
+    "colors": [
+      "G"
+    ],
+    "type": "Creature — Lhurgoyf",
+    "text": "Tarmogoyf’s power is equal to the number of card types among cards in\nall graveyards and its toughness is equal to that number plus 1.\n*/1+*",
+    "rarity": "M",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 117,
+    "name": "Tethermage's Advantage",
+    "mana": "G",
+    "mv": 1,
+    "colors": [
+      "G"
+    ],
+    "type": "Instant",
+    "text": "Target creature gets +2/+2 and gains reach until end of turn. Untap it.",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 118,
+    "name": "Verdant Kraken",
+    "mana": "4GGG",
+    "mv": 7,
+    "colors": [
+      "G"
+    ],
+    "type": "Creature — Plant Kraken",
+    "text": "At the beginning of each player’s upkeep, you create a 3/3 green Forest\nTentacle land creature token. (It has “\n: Add\n.” It’s affected by\nsummoning sickness until your next turn.)\n6/6",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 119,
+    "name": "Vinelasher Adept",
+    "mana": "4GG",
+    "mv": 6,
+    "colors": [
+      "G"
+    ],
+    "type": "Creature — Rhino Soldier",
+    "text": "Reach\nWhen this creature enters, put three +1/+1 counters on target creature.\nBasic landcycling\n(\n, Discard this card: Search your library for a\nbasic land card, reveal it, put it into your hand, then shuffle.)\n2/4",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 120,
+    "name": "Wrecking Gecko",
+    "mana": "4G",
+    "mv": 5,
+    "colors": [
+      "G"
+    ],
+    "type": "Artifact Creature — Lizard Construct",
+    "text": "Ward\n(Whenever this creature becomes the target of a spell or ability an\nopponent controls, counter it unless that player pays\n.)\n: This creature gets +4/+4 and gains trample until end of turn.\n5/5",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 121,
+    "name": "Aerid Konstrari",
+    "mana": "1RGG",
+    "mv": 4,
+    "colors": [
+      "R",
+      "G"
+    ],
+    "type": "Legendary Creature — Elder Sphinx",
+    "text": "Flying\nWhen Aerid Konstrari enters or dies, create a Heartwood token. (It’s a\nred and green artifact with “\n: Add\nor\n.”)\n: Create a Heartwood token. Then Aerid Konstrari gets +X/+0 until\nend of turn, where X is the number of artifacts you control.\n5/4",
+    "rarity": "M",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 122,
+    "name": "Avatar of Burgeoning Echoes",
+    "mana": "GU",
+    "mv": 2,
+    "colors": [
+      "U",
+      "G"
+    ],
+    "type": "Creature — Avatar",
+    "text": "Landfall — Whenever a land you control enters, empower Jace 2. (Put\ntwo loyalty counters on a Jace token you control. If you don’t control one,\nfirst create a blue Jace planeswalker token with “[−1]: Surveil 1” and\n“[−3]: Draw a card.”)\nPlaneswalkers you control have “[−10]: Put a +1/+1 counter on target\ncreature for each land you control.”\n2/3",
+    "rarity": "M",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 123,
+    "name": "Blessed Ghoul",
+    "mana": "W/B",
+    "mv": 1,
+    "colors": [
+      "W",
+      "B"
+    ],
+    "type": "Creature — Zombie Cleric",
+    "text": "Lifelink\n: Return this card from your graveyard to your hand.\n1/1",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 124,
+    "name": "Bloombrute",
+    "mana": "2GW",
+    "mv": 4,
+    "colors": [
+      "W",
+      "G"
+    ],
+    "type": "Creature — Plant Elemental",
+    "text": "Whenever you gain life, draw a card. This ability triggers only once each\nturn.\n: Target creature gains trample and lifelink until end of turn.\n4/4",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 125,
+    "name": "Charge the Sanctum",
+    "mana": "2R/W",
+    "mv": 3,
+    "colors": [
+      "W",
+      "R"
+    ],
+    "type": "Instant",
+    "text": "Choose one —\n• Creatures you control get +2/+0 until end of turn.\n• Target creature gets +2/+0 and gains first strike until end of turn. Put a\n+1/+1 counter on it.",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 126,
+    "name": "Clash of Elements",
+    "mana": "1UR",
+    "mv": 3,
+    "colors": [
+      "U",
+      "R"
+    ],
+    "type": "Instant",
+    "text": "Choose target nonland permanent. Its owner may put it on top of their\nlibrary. If they do, Clash of Elements deals 2 damage to them. If they\ndidn’t put the card on top of their library, they put it on the bottom.",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 127,
+    "name": "Craftwork Crusher",
+    "mana": "3RRGG",
+    "mv": 7,
+    "colors": [
+      "R",
+      "G"
+    ],
+    "type": "Artifact Creature — Boar Construct",
+    "text": "Trample\nWhen this creature enters, choose two —\n• This creature deals 4 damage to target creature or planeswalker.\n• Create a 2/2 colorless Wizard Soldier creature token named Cadet.\n• Draw a card.\n7/5",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 128,
+    "name": "Denzilore Fatehold",
+    "mana": "1WUU",
+    "mv": 4,
+    "colors": [
+      "W",
+      "U"
+    ],
+    "type": "Legendary Creature — Elder Sphinx",
+    "text": "Flash\nFlying\nWhenever you scry or surveil, put a +1/+1 counter on each creature you\ncontrol.\n3/4",
+    "rarity": "M",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 129,
+    "name": "Desperate Futurescribe",
+    "mana": "2WU",
+    "mv": 4,
+    "colors": [
+      "W",
+      "U"
+    ],
+    "type": "Creature — Kor Scout",
+    "text": "Flying\nAt the beginning of combat on your turn, another target creature you\ncontrol gets +1/+1 until end of turn. If you’ve scried or surveilled this\nturn, put a +1/+1 counter on that creature instead.\n3/4",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 130,
+    "name": "Emergency Phytomedic // Seed Suture",
+    "mana": "G/W // G/W",
+    "mv": 1,
+    "colors": [
+      "W",
+      "G"
+    ],
+    "type": "Creature — Dryad Cleric // Sorcery",
+    "text": "This creature enters prepared. (While it’s prepared, you may cast a copy\nof its spell. Doing so unprepares it.)\n1/1\nSeed Suture\nSorcery\nPut a +1/+1 counter on target creature. You gain 1 life.",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 131,
+    "name": "Entrust the Spark",
+    "mana": "3GU",
+    "mv": 5,
+    "colors": [
+      "U",
+      "G"
+    ],
+    "type": "Sorcery",
+    "text": "You may sacrifice a planeswalker. If you do, search your library for a\nplaneswalker card, put it onto the battlefield, then shuffle.",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 132,
+    "name": "Fatehold Charm",
+    "mana": "WU",
+    "mv": 2,
+    "colors": [
+      "W",
+      "U"
+    ],
+    "type": "Instant",
+    "text": "Choose one —\n• Draw a card. Empower Jace 2.\n• Return target spell or creature to its owner’s hand.\n• Creatures you control get +1/+2 until end of turn.",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 133,
+    "name": "Fatehold Chronologist // Peer Review",
+    "mana": "1W/U // 2W/U",
+    "mv": 2,
+    "colors": [
+      "W",
+      "U"
+    ],
+    "type": "Creature — Bird Wizard // Sorcery",
+    "text": "Flying\nThis creature enters prepared. (While it’s prepared, you may cast a copy\nof its spell. Doing so unprepares it.)\n1/2\nPeer Review\nSorcery\nCreate a 2/2 colorless Wizard Soldier creature token named Cadet.\nSurveil 1.",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 134,
+    "name": "Ferocity of the Hunt",
+    "mana": "1B/G",
+    "mv": 2,
+    "colors": [
+      "B",
+      "G"
+    ],
+    "type": "Enchantment — Aura",
+    "text": "Flash\nEnchant creature\nEnchanted creature gets +1/+0 and has deathtouch.\nWhen enchanted creature dies, return that card to the battlefield tapped\nunder its owner’s control.",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 135,
+    "name": "Frostbite Pyromental",
+    "mana": "URR",
+    "mv": 3,
+    "colors": [
+      "U",
+      "R"
+    ],
+    "type": "Creature — Elemental",
+    "text": "Trample, haste\nWhenever this creature deals combat damage to a player, draw two\ncards.\nAt the beginning of the end step, sacrifice this creature.\n4/4",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 136,
+    "name": "Grim Repriser",
+    "mana": "BR",
+    "mv": 2,
+    "colors": [
+      "B",
+      "R"
+    ],
+    "type": "Creature — Zombie Bard",
+    "text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1\nuntil end of turn.)\n: Return this card from your graveyard to the battlefield with a\nfinality counter on it. Activate only if an opponent has been dealt\nnoncombat damage this turn. (If a creature with a finality counter on it\nwould die, exile it instead.)\n2/2",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 137,
+    "name": "Ingris Stingerquill",
+    "mana": "BRR",
+    "mv": 3,
+    "colors": [
+      "B",
+      "R"
+    ],
+    "type": "Legendary Creature — Elder Sphinx",
+    "text": "Flying\nWhenever a creature you control attacks, that creature deals 1 damage\nto each opponent.\n: Create a 2/2 colorless Wizard Soldier creature token named Cadet.\nThen creatures you control gain haste until end of turn.\n1/4",
+    "rarity": "M",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 138,
+    "name": "Konstrari Charm",
+    "mana": "RG",
+    "mv": 2,
+    "colors": [
+      "R",
+      "G"
+    ],
+    "type": "Instant",
+    "text": "Choose one —\n• Konstrari Charm deals 6 damage to target creature with flying.\n• Put two +1/+1 counters on target creature. It gains trample until end\nof turn.\n• Add\n.",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 139,
+    "name": "Konstrari Improviser // Soul Tether",
+    "mana": "1R/G // 2R/G",
+    "mv": 2,
+    "colors": [
+      "R",
+      "G"
+    ],
+    "type": "Creature — Human Artificer // Sorcery",
+    "text": "This creature enters prepared. (While it’s prepared, you may cast a copy\nof its spell. Doing so unprepares it.)\n2/2\nSoul Tether\nSorcery\nCreate a Heartwood token. (It’s a red and green artifact with “\n: Add\nor\n.”)",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 140,
+    "name": "Kwia Vigorbloom",
+    "mana": "3GWW",
+    "mv": 6,
+    "colors": [
+      "W",
+      "G"
+    ],
+    "type": "Legendary Creature — Elder Sphinx",
+    "text": "Flying, vigilance, lifelink, ward\nWhenever you gain life, create a colorless artifact token named Lotus\nwith “\n, Sacrifice this token: Add three mana of any one color.” This\nability triggers only once each turn.\n6/6",
+    "rarity": "M",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 141,
+    "name": "Mind Meanderer",
+    "mana": "3GUU",
+    "mv": 6,
+    "colors": [
+      "U",
+      "G"
+    ],
+    "type": "Creature — Bird Fish Illusion",
+    "text": "Flying\nThis creature has vigilance as long as you control a Jace planeswalker.\nWhen this creature enters, it fights up to one target creature an\nopponent controls. (Each deals damage equal to its power to the other.)\n4/4",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 142,
+    "name": "Null Summoner",
+    "mana": "2UB",
+    "mv": 4,
+    "colors": [
+      "U",
+      "B"
+    ],
+    "type": "Creature — Human Warlock",
+    "text": "When this creature enters, if you cast it, target opponent reveals their\nhand. You choose a nonland card from it. Exile that card.\nThreshold — As long as there are seven or more cards in your graveyard,\nyou may cast the exiled card, and mana of any type can be spent to cast\nthat spell.\n4/2",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 143,
+    "name": "Paradox Shaper // Omit Variables",
+    "mana": "1U/B // U/B",
+    "mv": 2,
+    "colors": [
+      "U",
+      "B"
+    ],
+    "type": "Creature — Octopus Wizard // Sorcery",
+    "text": "At the beginning of your upkeep, if this creature isn’t prepared, it\nbecomes prepared.\n: Put target card from your graveyard on the bottom of your library.\n1/3\nOmit Variables\nSorcery\nMill three cards. (Put the top three cards of your library into your\ngraveyard.)",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 144,
+    "name": "Primal Witchstalker",
+    "mana": "1BG",
+    "mv": 3,
+    "colors": [
+      "B",
+      "G"
+    ],
+    "type": "Creature — Wolf",
+    "text": "Menace (This creature can’t be blocked except by two or more creatures.)\nWhen this creature enters, mill four cards. When you do, return target\nland card from your graveyard to the battlefield tapped. (To mill four\ncards, put the top four cards of your library into your graveyard.)\n2/1",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 145,
+    "name": "Proctor of Potential",
+    "mana": "WU",
+    "mv": 2,
+    "colors": [
+      "W",
+      "U"
+    ],
+    "type": "Creature — Human Cleric",
+    "text": "Whenever this creature or another creature you control enters, surveil 1.\n(Look at the top card of your library. You may put it into your\ngraveyard.)\n: Return this card from your graveyard to the battlefield with a\nfinality counter on it. Activate only if you’ve scried or surveilled this turn.\n(If a creature with a finality counter on it would die, exile it instead.)\n3/1",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 146,
+    "name": "Prudent Fateseer // Peer Review",
+    "mana": "1W/UW/U // 2W/U",
+    "mv": 3,
+    "colors": [
+      "W",
+      "U"
+    ],
+    "type": "Creature — Dwarf Wizard // Sorcery",
+    "text": "This creature enters prepared.\nWhenever you scry or surveil, creatures you control get +1/+0 until end\nof turn. This ability triggers only once each turn.\n1/4\nPeer Review\nSorcery\nCreate a 2/2 colorless Wizard Soldier creature token named Cadet.\nSurveil 1.",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 147,
+    "name": "Recursive Recruitment",
+    "mana": "2UB",
+    "mv": 4,
+    "colors": [
+      "U",
+      "B"
+    ],
+    "type": "Sorcery",
+    "text": "Create two 2/2 colorless Wizard Soldier creature tokens named Cadet. If\nthis spell was cast from a graveyard, put a +1/+1 counter on each of\nthem for every three cards in your graveyard.\nFlashback\n(You may cast this card from your graveyard for its\nflashback cost. Then exile it.)",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 148,
+    "name": "Solarium Sentry",
+    "mana": "GW",
+    "mv": 2,
+    "colors": [
+      "W",
+      "G"
+    ],
+    "type": "Creature — Cat Soldier",
+    "text": "Whenever an opponent casts a spell with mana value 2 or less, you gain\n2 life.\n3/3",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 149,
+    "name": "Solitary Cell",
+    "mana": "RW",
+    "mv": 2,
+    "colors": [
+      "W",
+      "R"
+    ],
+    "type": "Artifact",
+    "text": "When this artifact enters, exile target nonland permanent an opponent\ncontrols with mana value 3 or less until this artifact leaves the battlefield.\n,\n, Discard a legendary card: Draw a card.",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 150,
+    "name": "Stingerquill Charm",
+    "mana": "BR",
+    "mv": 2,
+    "colors": [
+      "B",
+      "R"
+    ],
+    "type": "Instant",
+    "text": "Choose one —\n• Stingerquill Charm deals 3 damage to any target.\n• Target creature gains first strike and deathtouch until end of turn.\n• Create a 2/2 colorless Wizard Soldier creature token named Cadet. It\ngains haste until end of turn.",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 151,
+    "name": "Stingerquill Voxmancer // Vicious Verse",
+    "mana": "B/R // B/R",
+    "mv": 1,
+    "colors": [
+      "B",
+      "R"
+    ],
+    "type": "Creature — Goblin Sorcerer // Sorcery",
+    "text": "At the beginning of your upkeep, if this creature isn’t prepared, it\nbecomes prepared. (While it’s prepared, you may cast a copy of its spell.\nDoing so unprepares it.)\n1/2\nVicious Verse\nSorcery\nVicious Verse deals 1 damage to target opponent.",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 152,
+    "name": "Stinging Vitriol",
+    "mana": "BR",
+    "mv": 2,
+    "colors": [
+      "B",
+      "R"
+    ],
+    "type": "Sorcery",
+    "text": "Stinging Vitriol deals 2 damage to target opponent. That player reveals\ntheir hand. You choose a nonland card from it. They discard that card.",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 153,
+    "name": "Tam's Resistance",
+    "mana": "1G/U",
+    "mv": 2,
+    "colors": [
+      "U",
+      "G"
+    ],
+    "type": "Sorcery",
+    "text": "Put a +1/+1 counter on up to one target creature. It gains vigilance until\nend of turn.\nEmpower Jace 4. (Put four loyalty counters on a Jace token you control. If\nyou don’t control one, first create a blue Jace planeswalker token with\n“[−1]: Surveil 1” and “[−3]: Draw a card.”)",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 154,
+    "name": "Tenured Tethermage",
+    "mana": "1RG",
+    "mv": 3,
+    "colors": [
+      "R",
+      "G"
+    ],
+    "type": "Creature — Human Artificer",
+    "text": "When this creature enters, you may sacrifice a land. If you do, create two\ntapped Heartwood tokens. (They’re red and green artifacts with “\n:\nAdd\nor\n.”)\nTap two untapped artifacts you control: Put two +1/+1 counters on this\ncreature.\n1/1",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 155,
+    "name": "Theorix Charm",
+    "mana": "UB",
+    "mv": 2,
+    "colors": [
+      "U",
+      "B"
+    ],
+    "type": "Instant",
+    "text": "Choose one —\n• Counter target noncreature spell unless its controller pays\n.\n• Target creature gets -2/-2 until end of turn.\n• Mill three cards, then draw a card. (To mill three cards, put the top three\ncards of your library into your graveyard.)",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 156,
+    "name": "Theorix Metamage // Omit Variables",
+    "mana": "2U/B // U/B",
+    "mv": 3,
+    "colors": [
+      "U",
+      "B"
+    ],
+    "type": "Creature — Shade Wizard // Sorcery",
+    "text": "This creature enters prepared. (While it’s prepared, you may cast a copy\nof its spell. Doing so unprepares it.)\nThreshold — This creature gets +1/+0 and has flying as long as there are\nseven or more cards in your graveyard.\n2/3\nOmit Variables\nSorcery\nMill three cards. (Put the top three cards of your library into your\ngraveyard.)",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 157,
+    "name": "Twinned Vision",
+    "mana": "1U/R",
+    "mv": 2,
+    "colors": [
+      "U",
+      "R"
+    ],
+    "type": "Instant",
+    "text": "Draw a card. If this spell wasn’t cast from your hand, draw two cards\ninstead.\nFlashback—\n, Discard a card. (You may cast this card from your\ngraveyard for its flashback cost. Then exile it.)",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 158,
+    "name": "Twisted Fates",
+    "mana": "2WWB",
+    "mv": 5,
+    "colors": [
+      "W",
+      "B"
+    ],
+    "type": "Sorcery",
+    "text": "Destroy target nonland permanent. Put a +1/+1 counter on each\ncreature target player controls.",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 159,
+    "name": "Uldaros Theorix",
+    "mana": "3UBB",
+    "mv": 6,
+    "colors": [
+      "U",
+      "B"
+    ],
+    "type": "Legendary Creature — Elder Sphinx",
+    "text": "Flying\nWhen Uldaros Theorix enters, if you cast him, exile up to one target\nnonland card of each card type from your graveyard. Copy those cards.\nYou may cast any number of spells with total mana value 6 or less from\namong the copies without paying their mana costs. (Permanent spells cast\nthis way become tokens.)\n5/5",
+    "rarity": "M",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 160,
+    "name": "Vigorbloom Charm",
+    "mana": "GW",
+    "mv": 2,
+    "colors": [
+      "W",
+      "G"
+    ],
+    "type": "Instant",
+    "text": "Choose one —\n• Target permanent you control gains hexproof and indestructible until\nend of turn.\n• You draw a card and gain 3 life.\n• Put a +1/+1 counter on target creature you control. Then it fights\ntarget creature an opponent controls. (Each deals damage equal to its\npower to the other.)",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 161,
+    "name": "Vigorbloom Vanguard // Seed Suture",
+    "mana": "1G/W // G/W",
+    "mv": 2,
+    "colors": [
+      "W",
+      "G"
+    ],
+    "type": "Creature — Troll Druid // Sorcery",
+    "text": "This creature enters prepared. (While it’s prepared, you may cast a copy\nof its spell. Doing so unprepares it.)\nEach creature you control with a +1/+1 counter on it has vigilance.\n2/2\nSeed Suture\nSorcery\nPut a +1/+1 counter on target creature. You gain 1 life.",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 162,
+    "name": "Vindictive Triumph",
+    "mana": "WBB",
+    "mv": 3,
+    "colors": [
+      "W",
+      "B"
+    ],
+    "type": "Instant",
+    "text": "Exile target creature or planeswalker. If that permanent’s mana value was\n3 or less, return it to the battlefield tapped under your control. Exile it at\nthe beginning of the next end step.",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 163,
+    "name": "Warrior's Blades",
+    "mana": "2RW",
+    "mv": 4,
+    "colors": [
+      "W",
+      "R"
+    ],
+    "type": "Artifact — Equipment",
+    "text": "When this Equipment enters, it deals 3 damage to any target and you\ngain 3 life.\nEquipped creature gets +2/+1.\nEquip\n. This ability costs\nless to activate for each +1/+1 counter on\nthe creature it targets.",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 164,
+    "name": "Whiplash Wordsmith // Vicious Verse",
+    "mana": "3B/R // B/R",
+    "mv": 4,
+    "colors": [
+      "B",
+      "R"
+    ],
+    "type": "Creature — Vampire Sorcerer // Sorcery",
+    "text": "This creature enters prepared. (While it’s prepared, you may cast a copy\nof its spell. Doing so unprepares it.)\nAs long as an opponent was dealt noncombat damage this turn, this\ncreature has flying and haste.\n3/3\nVicious Verse\nSorcery\nVicious Verse deals 1 damage to target opponent.",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 165,
+    "name": "Woodwork Prodigy // Soul Tether",
+    "mana": "2R/G // 2R/G",
+    "mv": 3,
+    "colors": [
+      "R",
+      "G"
+    ],
+    "type": "Creature — Cat Druid // Sorcery",
+    "text": "At the beginning of your upkeep, if this creature isn’t prepared, it\nbecomes prepared. (While it’s prepared, you may cast a copy of its spell.\nDoing so unprepares it.)\n3/3\nSoul Tether\nSorcery\nCreate a Heartwood token. (It’s a red and green artifact with “\n: Add\nor\n.”)",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 166,
+    "name": "Afterthought Sentry",
+    "mana": "2",
+    "mv": 2,
+    "colors": [],
+    "type": "Artifact Creature — Gargoyle",
+    "text": ": This creature gains flying until end of turn.\nWhenever this creature attacks, exile up to one target card from a\ngraveyard.\n2/2",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 167,
+    "name": "Archive Arbiter",
+    "mana": "6",
+    "mv": 6,
+    "colors": [],
+    "type": "Artifact Creature — Sphinx",
+    "text": "Flying\nWhen this creature enters, choose one —\n• Destroy target noncreature, nonland permanent.\n• You gain 4 life.\n4/4",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 168,
+    "name": "Codie, Ravenous Codex",
+    "mana": "3",
+    "mv": 3,
+    "colors": [],
+    "type": "Legendary Artifact Creature — Book Construct",
+    "text": "Whenever you cast a prepared spell, copy it. You may choose new targets\nfor the copy.\n,\n: Each creature you control becomes prepared. (Only\ncreatures with prepare spells can become prepared.)\n1/4",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 169,
+    "name": "The Echoverse Fulcrum",
+    "mana": "2",
+    "mv": 2,
+    "colors": [],
+    "type": "Legendary Artifact",
+    "text": "When The Echoverse Fulcrum enters, draw a card, then discard a card.\n,\n, Exile The Echoverse Fulcrum: Destroy all creatures. Activate only\nas a sorcery.",
+    "rarity": "M",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 170,
+    "name": "Eye of Jace",
+    "mana": "1",
+    "mv": 1,
+    "colors": [],
+    "type": "Artifact",
+    "text": "At the beginning of your upkeep, surveil 1. Then if there are seven or\nmore cards in your graveyard, sacrifice this artifact, it deals 2 damage to\neach opponent, and you gain 2 life. (To surveil 1, look at the top card of\nyour library. You may put it into your graveyard.)",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 171,
+    "name": "Keeper of the Quiet Hour",
+    "mana": "3",
+    "mv": 3,
+    "colors": [],
+    "type": "Artifact Creature — Chimera",
+    "text": "When this creature enters, empower Jace 2. (Put two loyalty counters on\na Jace token you control. If you don’t control one, first create a blue Jace\nplaneswalker token with “[−1]: Surveil 1” and “[−3]: Draw a card.”)\n3/2",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 172,
+    "name": "Living Library",
+    "mana": "2",
+    "mv": 2,
+    "colors": [],
+    "type": "Artifact Creature — Book Illusion",
+    "text": ", Sacrifice this creature: Choose target creature or planeswalker an\nopponent controls. Its owner shuffles it into their library.\n0/4",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 173,
+    "name": "Medic's Kitesail",
+    "mana": "2",
+    "mv": 2,
+    "colors": [],
+    "type": "Artifact — Equipment",
+    "text": "Equipped creature gets +1/+0 and has flying and “Whenever this\ncreature attacks, you gain 1 life.”\nEquip\n(\n: Attach to target creature you control. Equip only as a\nsorcery.)",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 174,
+    "name": "Murmuring Volume",
+    "mana": "3",
+    "mv": 3,
+    "colors": [],
+    "type": "Artifact — Book",
+    "text": ": Add one mana of any color.\n,\n, Discard a card: Draw a card.",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 175,
+    "name": "Dedicated Commons",
+    "mana": "",
+    "mv": 0,
+    "colors": [],
+    "type": "Land",
+    "text": "This land enters tapped unless you control a planeswalker.\n: Add\nor\n.",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": true,
+    "produces": [
+      "R",
+      "W"
+    ]
+  },
+  {
+    "n": 176,
+    "name": "Deserted Beach",
+    "mana": "",
+    "mv": 0,
+    "colors": [],
+    "type": "Land",
+    "text": "This land enters tapped unless you control two or more other lands.\n: Add\nor\n.",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": [
+      "W",
+      "U"
+    ]
+  },
+  {
+    "n": 177,
+    "name": "Fatehold Annex",
+    "mana": "",
+    "mv": 0,
+    "colors": [],
+    "type": "Land",
+    "text": "This land enters tapped unless you control a planeswalker.\n: Add\nor\n.",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": true,
+    "produces": [
+      "W",
+      "U"
+    ]
+  },
+  {
+    "n": 178,
+    "name": "Formidable Commons",
+    "mana": "",
+    "mv": 0,
+    "colors": [],
+    "type": "Land",
+    "text": "This land enters tapped unless you control a planeswalker.\n: Add\nor\n.",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": true,
+    "produces": [
+      "B",
+      "G"
+    ]
+  },
+  {
+    "n": 179,
+    "name": "Hall of Echoes",
+    "mana": "",
+    "mv": 0,
+    "colors": [],
+    "type": "Land",
+    "text": ": Add\n.\n: This land becomes a copy of target creature you control until end of\nturn. The “legend rule” doesn’t apply to permanents you control this turn.",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 180,
+    "name": "Haunted Ridge",
+    "mana": "",
+    "mv": 0,
+    "colors": [],
+    "type": "Land",
+    "text": "This land enters tapped unless you control two or more other lands.\n: Add\nor\n.",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": [
+      "B",
+      "R"
+    ]
+  },
+  {
+    "n": 181,
+    "name": "Hexhaven Dueling Arena",
+    "mana": "",
+    "mv": 0,
+    "colors": [],
+    "type": "Land",
+    "text": ": Add\n.\n,\n: Target creature that attacked this turn becomes prepared.\nActivate only as a sorcery. (Only creatures with prepare spells can become\nprepared.)\n,\n: Target creature becomes prepared.",
+    "rarity": "U",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 182,
+    "name": "Innovative Commons",
+    "mana": "",
+    "mv": 0,
+    "colors": [],
+    "type": "Land",
+    "text": "This land enters tapped unless you control a planeswalker.\n: Add\nor\n.",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": true,
+    "produces": [
+      "U",
+      "R"
+    ]
+  },
+  {
+    "n": 183,
+    "name": "Konstrari Annex",
+    "mana": "",
+    "mv": 0,
+    "colors": [],
+    "type": "Land",
+    "text": "This land enters tapped unless you control a planeswalker.\n: Add\nor\n.",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": true,
+    "produces": [
+      "R",
+      "G"
+    ]
+  },
+  {
+    "n": 184,
+    "name": "Meticulous Commons",
+    "mana": "",
+    "mv": 0,
+    "colors": [],
+    "type": "Land",
+    "text": "This land enters tapped unless you control a planeswalker.\n: Add\nor\n.",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": true,
+    "produces": [
+      "W",
+      "B"
+    ]
+  },
+  {
+    "n": 185,
+    "name": "Overgrown Farmland",
+    "mana": "",
+    "mv": 0,
+    "colors": [],
+    "type": "Land",
+    "text": "This land enters tapped unless you control two or more other lands.\n: Add\nor\n.",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": [
+      "G",
+      "W"
+    ]
+  },
+  {
+    "n": 186,
+    "name": "Rockfall Vale",
+    "mana": "",
+    "mv": 0,
+    "colors": [],
+    "type": "Land",
+    "text": "This land enters tapped unless you control two or more other lands.\n: Add\nor\n.",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": [
+      "R",
+      "G"
+    ]
+  },
+  {
+    "n": 187,
+    "name": "Roiling Canopy",
+    "mana": "",
+    "mv": 0,
+    "colors": [],
+    "type": "Land",
+    "text": "This land enters tapped.\nWhenever a Forest you control enters, if you control at least five other\nForests, target creature you control gets +3/+3 until end of turn.\n: Add\n.",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 188,
+    "name": "Room of Refuge",
+    "mana": "",
+    "mv": 0,
+    "colors": [],
+    "type": "Land",
+    "text": "This land enters tapped. As it enters, choose a color.\n: Add one mana of the chosen color.\n,\n, Sacrifice this land: Put two +1/+1 counters on target creature.\nActivate only as a sorcery.",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 189,
+    "name": "Shipwreck Marsh",
+    "mana": "",
+    "mv": 0,
+    "colors": [],
+    "type": "Land",
+    "text": "This land enters tapped unless you control two or more other lands.\n: Add\nor\n.",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": [
+      "U",
+      "B"
+    ]
+  },
+  {
+    "n": 190,
+    "name": "Stingerquill Annex",
+    "mana": "",
+    "mv": 0,
+    "colors": [],
+    "type": "Land",
+    "text": "This land enters tapped unless you control a planeswalker.\n: Add\nor\n.",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": true,
+    "produces": [
+      "B",
+      "R"
+    ]
+  },
+  {
+    "n": 191,
+    "name": "Theorist's Sanctum",
+    "mana": "",
+    "mv": 0,
+    "colors": [],
+    "type": "Land — Island",
+    "text": "(\n: Add\n.)\nAs this land enters, you may behold a Jace. If you don’t, this land enters\ntapped. (To behold a Jace, choose a Jace you control or reveal a Jace card\nfrom your hand.)\n,\n: Empower Jace 2.",
+    "rarity": "R",
+    "echoed": false,
+    "common_dual": false,
+    "produces": [
+      "U"
+    ]
+  },
+  {
+    "n": 192,
+    "name": "Theorix Annex",
+    "mana": "",
+    "mv": 0,
+    "colors": [],
+    "type": "Land",
+    "text": "This land enters tapped unless you control a planeswalker.\n: Add\nor\n.",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": true,
+    "produces": [
+      "U",
+      "B"
+    ]
+  },
+  {
+    "n": 193,
+    "name": "Transformative Commons",
+    "mana": "",
+    "mv": 0,
+    "colors": [],
+    "type": "Land",
+    "text": "This land enters tapped unless you control a planeswalker.\n: Add\nor\n.",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": true,
+    "produces": [
+      "G",
+      "U"
+    ]
+  },
+  {
+    "n": 194,
+    "name": "Vigorbloom Annex",
+    "mana": "",
+    "mv": 0,
+    "colors": [],
+    "type": "Land",
+    "text": "This land enters tapped unless you control a planeswalker.\n: Add\nor\n.",
+    "rarity": "C",
+    "echoed": false,
+    "common_dual": true,
+    "produces": [
+      "G",
+      "W"
+    ]
+  },
+  {
+    "n": 195,
+    "name": "Ajani Resolute",
+    "mana": "1W",
+    "mv": 2,
+    "colors": [
+      "W"
+    ],
+    "type": "Legendary Planeswalker — Ajani",
+    "text": "Whenever you gain life, put a loyalty counter on Ajani.\n0: You gain 1 life.\n−4: Create a 2/2 white Cat Soldier creature token named Ajani’s\nPridemate with “Whenever you gain life, put a +1/+1 counter on this\ntoken.”\n−10: You get an emblem with “Creatures you control get +2/+2.”\nLoyalty: 2",
+    "rarity": "M",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 196,
+    "name": "Danitha, Sword of Hope",
+    "mana": "2W",
+    "mv": 3,
+    "colors": [
+      "W"
+    ],
+    "type": "Legendary Creature — Human Knight",
+    "text": "First strike\nWhenever you cast an Equipment spell or a spell that targets a creature\nyou control, draw a card. This ability triggers only once each turn.\n2/2",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 197,
+    "name": "Ghalta the Immovable",
+    "mana": "8W",
+    "mv": 9,
+    "colors": [
+      "W"
+    ],
+    "type": "Legendary Creature — Elder Dinosaur",
+    "text": "This spell costs\nless to cast, where X is the greatest toughness among\ncreatures you control.\nCreatures you control can attack as though they didn’t have defender.\nEach creature you control with toughness greater than its power assigns\ncombat damage equal to its toughness rather than its power.\n0/7",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 198,
+    "name": "Gideon's Memorial // Legendary Artifact",
+    "mana": "1W",
+    "mv": 2,
+    "colors": [
+      "W"
+    ],
+    "type": "Legendary Artifact // Creature tokens you control get +1/+0 and have vigilance.",
+    "text": "Creature tokens you control get +1/+0 and have vigilance.\n: Add one mana of any color. Spend this mana only to cast a\nplaneswalker spell.\n, Discard this card: It deals 4 damage to target attacking or blocking\ncreature.",
+    "rarity": "R",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 199,
+    "name": "Koth of the Homestead",
+    "mana": "2W",
+    "mv": 3,
+    "colors": [
+      "W"
+    ],
+    "type": "Legendary Creature — Human Citizen",
+    "text": "Landfall — Whenever a land you control enters, you gain 1 life.\nWhenever a Plains you control enters, put a +1/+1 counter on target\ncreature.\n2/3",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 200,
+    "name": "Liliana the Faultless",
+    "mana": "W",
+    "mv": 1,
+    "colors": [
+      "W"
+    ],
+    "type": "Legendary Creature — Human Cleric",
+    "text": "Whenever another creature or planeswalker you control enters, you gain\n1 life.\n,\n, Discard a card: Another target creature or planeswalker you\ncontrol gains hexproof until end of turn.\n1/1",
+    "rarity": "R",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 201,
+    "name": "Lyra, Archangel of Dawn",
+    "mana": "2W",
+    "mv": 3,
+    "colors": [
+      "W"
+    ],
+    "type": "Legendary Creature — Angel Knight",
+    "text": "Flying\nWhenever you gain life, put a +1/+1 counter on each Angel you control.\n3/3",
+    "rarity": "R",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 202,
+    "name": "Rescue Girl, First Responder",
+    "mana": "2W",
+    "mv": 3,
+    "colors": [
+      "W"
+    ],
+    "type": "Legendary Creature — Human Cleric",
+    "text": "Flying\n: Return another target permanent you control to its owner’s hand.\nActivate only during your turn.\n1/3",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 203,
+    "name": "Saheeli, Consul of Oversight",
+    "mana": "3WW",
+    "mv": 5,
+    "colors": [
+      "W"
+    ],
+    "type": "Legendary Creature — Human Advisor",
+    "text": "Flying\nWhenever you scry or surveil, create a 1/1 colorless Thopter artifact\ncreature token with flying. This ability triggers only once each turn.\n4/4",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 204,
+    "name": "Teyo, Lightshield Expert",
+    "mana": "1W",
+    "mv": 2,
+    "colors": [
+      "W"
+    ],
+    "type": "Legendary Creature — Human Cleric",
+    "text": "Flash\nWhen Teyo enters, target permanent you control gains hexproof until\nend of turn. Put a +1/+1 counter on it if it’s a creature. Put a loyalty\ncounter on it if it’s a planeswalker. (It can’t be the target of spells or\nabilities your opponents control.)\n1/1",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 205,
+    "name": "Thalia, the Survivor",
+    "mana": "3W",
+    "mv": 4,
+    "colors": [
+      "W"
+    ],
+    "type": "Legendary Creature — Human Soldier",
+    "text": "Lifelink\nNoncreature spells your opponents cast cost\nmore to cast.\n3/4",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 206,
+    "name": "Tomik, Orzhov Lawmage",
+    "mana": "1W",
+    "mv": 2,
+    "colors": [
+      "W"
+    ],
+    "type": "Legendary Creature — Human Advisor",
+    "text": "Flying\nPlaneswalkers you control have “No more than one creature can attack\nthis planeswalker each combat.”\n: Target creature with a +1/+1 counter on it gains flying until end of\nturn.\n2/1",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 207,
+    "name": "Way of the Healer",
+    "mana": "3W",
+    "mv": 4,
+    "colors": [
+      "W"
+    ],
+    "type": "Legendary Enchantment",
+    "text": "When Way of the Healer enters, empower Jace 5. (Put five loyalty\ncounters on a Jace token you control. If you don’t control one, first create a\nblue Jace planeswalker token with “[−1]: Surveil 1” and “[−3]: Draw a\ncard.”)\nPlaneswalkers you control have “[−2]: Create a 2/2 colorless Wizard\nSoldier creature token named Cadet. Surveil 1.”",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 208,
+    "name": "Way of the Mentor",
+    "mana": "2W",
+    "mv": 3,
+    "colors": [
+      "W"
+    ],
+    "type": "Legendary Enchantment",
+    "text": "When Way of the Mentor enters, empower Jace 5. (Put five loyalty\ncounters on a Jace token you control. If you don’t control one, first create a\nblue Jace planeswalker token with “[−1]: Surveil 1” and “[−3]: Draw a\ncard.”)\nWhenever you gain life, put a loyalty counter on each planeswalker you\ncontrol.",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 209,
+    "name": "Yoshimaru, Beloved Companion",
+    "mana": "2W",
+    "mv": 3,
+    "colors": [
+      "W"
+    ],
+    "type": "Legendary Creature — Dog",
+    "text": "If one or more +1/+1 counters would be put on a creature you control,\nthat many plus one +1/+1 counters are put on it instead.\n: Put a +1/+1 counter on target legendary creature.\n2/2",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 210,
+    "name": "Yuriko, Blade of the Mighty",
+    "mana": "3W",
+    "mv": 4,
+    "colors": [
+      "W"
+    ],
+    "type": "Legendary Creature — Human Samurai",
+    "text": "During combat, players can’t cast spells or activate abilities that aren’t\nmana abilities.\nWhenever a creature you control attacks a player alone, it gains double\nstrike until end of turn.\n2/3",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 211,
+    "name": "Arni, Humble Scribe",
+    "mana": "2U",
+    "mv": 3,
+    "colors": [
+      "U"
+    ],
+    "type": "Legendary Creature — Human Wizard",
+    "text": "Whenever another nontoken creature you control enters, untap Arni.\n: Draw a card, then discard a card.\n3/2",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 212,
+    "name": "Chandra, Chill of Compliance",
+    "mana": "1UU",
+    "mv": 3,
+    "colors": [
+      "U"
+    ],
+    "type": "Legendary Planeswalker — Chandra",
+    "text": "+1: Surveil 1. If you put a noncreature, nonland card into your graveyard\nthis way, put that card into your hand.\n+1: Add\n. Spend this mana only to cast a noncreature spell.\n−X: Tap target artifact or creature. Put X stun counters on it.\n−6: You get an emblem with “Whenever you cast a spell, draw a card.”\nLoyalty: 3",
+    "rarity": "M",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 213,
+    "name": "Fblthp, Impossibly Lost",
+    "mana": "1U",
+    "mv": 2,
+    "colors": [
+      "U"
+    ],
+    "type": "Legendary Creature — Homunculus",
+    "text": "When one or more of your opponents are dealt combat damage during\nyour turn, draw two cards. If your library has no cards in it, you win the\ngame. Fblthp’s owner shuffles him into their library. (If you draw from an\nempty library this way, you still win the game.)\n1/1",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 214,
+    "name": "Geist of Saint Thalia",
+    "mana": "1U",
+    "mv": 2,
+    "colors": [
+      "U"
+    ],
+    "type": "Legendary Creature — Spirit Cleric",
+    "text": "Flying\nNoncreature spells you cast cost\nless to cast.\n1/2",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 215,
+    "name": "Hapatra, the Desert Frost",
+    "mana": "3U",
+    "mv": 4,
+    "colors": [
+      "U"
+    ],
+    "type": "Legendary Creature — Human Wizard",
+    "text": "When Hapatra enters, for each opponent, tap up to one target creature\nthat player controls. Put a stun counter on each of those creatures. (If a\npermanent with a stun counter would become untapped, remove one from\nit instead.)\n: Untap target creature.\n4/3",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 216,
+    "name": "Jace, Reality Sculptor",
+    "mana": "3UU",
+    "mv": 5,
+    "colors": [
+      "U"
+    ],
+    "type": "Legendary Planeswalker — Jace",
+    "text": "+1: Empower Jace X, where X is the number of Islands you control.\n−3: Until your next turn, whenever a creature attacks you or a\nplaneswalker you control, it gets -5/-0 until end of turn.\n0: Exile all but the bottom card of each opponent’s library. Activate only\nif there are twenty-five or more loyalty counters among Jaces you\ncontrol.\nLoyalty: 5",
+    "rarity": "R",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 217,
+    "name": "Lyra, Tolarian Archangel",
+    "mana": "1UU",
+    "mv": 3,
+    "colors": [
+      "U"
+    ],
+    "type": "Legendary Creature — Angel Wizard",
+    "text": "Flying\nAt the beginning of each end step, if you’ve drawn three or more cards\nthis turn, create a 3/3 blue Angel creature token with flying.\n: Until end of turn, whenever Lyra deals combat damage to a\nplayer, draw two cards.\n3/3",
+    "rarity": "R",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 218,
+    "name": "Proft, Consulting Detective",
+    "mana": "1U",
+    "mv": 2,
+    "colors": [
+      "U"
+    ],
+    "type": "Legendary Creature — Human Detective",
+    "text": "Whenever you scry or surveil, you may pay\n. If you do, put a +1/+1\ncounter on Proft and draw a card. (Draw after you scry or surveil.)\n2/2",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 219,
+    "name": "Ruric Thar, Biomagus",
+    "mana": "4UU",
+    "mv": 6,
+    "colors": [
+      "U"
+    ],
+    "type": "Legendary Creature — Ogre Crab Wizard",
+    "text": "Flying\nProwess, prowess (Whenever you cast a noncreature spell, this creature\ngets +1/+1 until end of turn twice.)\nWhenever Ruric Thar becomes the target of a spell or ability an\nopponent controls, draw a card.\n4/6",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 220,
+    "name": "Samut, Tyrant of Naktamun // Legendary Creature — Human Wizard",
+    "mana": "1U",
+    "mv": 2,
+    "colors": [
+      "U"
+    ],
+    "type": "Legendary Creature — Human Wizard // Instant and sorcery spells you control have split second. (As long as a",
+    "text": "Instant and sorcery spells you control have split second. (As long as a\nspell with split second is on the stack, players can’t cast spells or activate\nabilities that aren’t mana abilities.)\n2/1",
+    "rarity": "R",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 221,
+    "name": "Tetsuko Umezawa, Fugitive",
+    "mana": "1U",
+    "mv": 2,
+    "colors": [
+      "U"
+    ],
+    "type": "Legendary Creature — Human Rogue",
+    "text": "Creatures you control with power or toughness 1 or less can’t be\nblocked.\n1/3",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 222,
+    "name": "Traxos, Academy Guardian",
+    "mana": "3U",
+    "mv": 4,
+    "colors": [
+      "U"
+    ],
+    "type": "Legendary Artifact Creature — Dragon Construct",
+    "text": "This spell costs\nless to cast if you’ve cast a noncreature spell this turn.\nFlying, vigilance\nProwess (Whenever you cast a noncreature spell, this creature gets +1/+1\nuntil end of turn.)\n1/5",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 223,
+    "name": "Way of the Cryomancer",
+    "mana": "2U",
+    "mv": 3,
+    "colors": [
+      "U"
+    ],
+    "type": "Legendary Enchantment",
+    "text": "When Way of the Cryomancer enters, empower Jace 5. (Put five loyalty\ncounters on a Jace token you control. If you don’t control one, first create a\nblue Jace planeswalker token with “[−1]: Surveil 1” and “[−3]: Draw a\ncard.”)\nPlaneswalkers you control have “[−3]: When you next cast an instant or\nsorcery spell this turn, copy that spell. You may choose new targets for\nthe copy.”",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 224,
+    "name": "Way of the Mind Sculptor",
+    "mana": "4U",
+    "mv": 5,
+    "colors": [
+      "U"
+    ],
+    "type": "Legendary Enchantment",
+    "text": "When Way of the Mind Sculptor enters, empower Jace 5. (Put five\nloyalty counters on a Jace token you control. If you don’t control one, first\ncreate a blue Jace planeswalker token with “[−1]: Surveil 1” and “[−3]:\nDraw a card.”)\nWhenever you activate a loyalty ability, if you removed two or more\nloyalty counters to activate it, draw a card.",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 225,
+    "name": "Yargle, Goliath of Otaria",
+    "mana": "4U",
+    "mv": 5,
+    "colors": [
+      "U"
+    ],
+    "type": "Legendary Creature — Frog Spirit",
+    "text": "3/9",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 226,
+    "name": "Yuriko, Hope from the Shadows",
+    "mana": "U",
+    "mv": 1,
+    "colors": [
+      "U"
+    ],
+    "type": "Legendary Creature — Human Ninja",
+    "text": "Flash\nWhen Yuriko enters, choose one —\n• Target creature gets -X/-0 until end of turn, where X is the number of\ncards in your graveyard.\n• Surveil 2. (Look at the top two cards of your library, then put any\nnumber of them into your graveyard and the rest on top of your library in\nany order.)\n1/1",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 227,
+    "name": "Danitha, Spear of Agony",
+    "mana": "2B",
+    "mv": 3,
+    "colors": [
+      "B"
+    ],
+    "type": "Legendary Creature — Human Knight",
+    "text": "First strike\nWhenever you cast a spell that targets an opponent or a creature an\nopponent controls, put a +1/+1 counter on Danitha.\n2/2",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 228,
+    "name": "Gallia, Tragic Host",
+    "mana": "1B",
+    "mv": 2,
+    "colors": [
+      "B"
+    ],
+    "type": "Legendary Creature — Zombie Satyr",
+    "text": "Menace (This creature can’t be blocked except by two or more creatures.)\n, Exile another creature card from your graveyard: Return this card\nfrom your graveyard to the battlefield tapped with a +1/+1 counter on\nher.\n2/1",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 229,
+    "name": "Garruk, Veiled Butcher",
+    "mana": "3BB",
+    "mv": 5,
+    "colors": [
+      "B"
+    ],
+    "type": "Legendary Planeswalker — Garruk",
+    "text": "If a creature an opponent controls would die, exile it instead.\n+2: Up to one target creature gets -4/-1 until your next turn.\n−2: Each player sacrifices a creature of their choice. If you sacrificed a\ncreature this way, create a 4/4 green Beast creature token with trample.\n−3: Each opponent discards two cards. For each opponent who didn’t\ndiscard two nonland cards this way, you draw a card.\nLoyalty: 5",
+    "rarity": "M",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 230,
+    "name": "Gideon the Oathless",
+    "mana": "2B",
+    "mv": 3,
+    "colors": [
+      "B"
+    ],
+    "type": "Legendary Creature — Human Mercenary",
+    "text": "Ward—Discard a card.\nWhenever a creature an opponent controls enters, Gideon deals 1\ndamage to that player.\nWhenever an opponent activates a loyalty ability, Gideon deals 1 damage\nto that player.\n3/3",
+    "rarity": "R",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 231,
+    "name": "Liliana the Repentant",
+    "mana": "1B",
+    "mv": 2,
+    "colors": [
+      "B"
+    ],
+    "type": "Legendary Creature — Human Warlock",
+    "text": "Whenever another creature or planeswalker you control enters, mill two\ncards.\nExhaust —\n: Return target creature or planeswalker card from your\ngraveyard to the battlefield. Put a +1/+1 counter on Liliana. Activate only\nas a sorcery. (Activate each exhaust ability only once.)\n2/2",
+    "rarity": "R",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 232,
+    "name": "Loot, the Anomaly",
+    "mana": "2B",
+    "mv": 3,
+    "colors": [
+      "B"
+    ],
+    "type": "Legendary Creature — Beast Horror",
+    "text": "If Loot’s power is negative, he assigns combat damage as though his\npower were positive.\nThreshold — Sacrifice another creature or planeswalker: Loot gets -2/-0\nuntil end of turn. Activate only if there are seven or more cards in your\ngraveyard.\n-2/4",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 233,
+    "name": "Mabel, Bitter Recluse",
+    "mana": "B",
+    "mv": 1,
+    "colors": [
+      "B"
+    ],
+    "type": "Legendary Creature — Mouse Warlock",
+    "text": "Deathtouch\nWhen Mabel enters, remove up to three counters from another target\ncreature or planeswalker.\n1/1",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 234,
+    "name": "Massacre Girl, Most Wanted",
+    "mana": "4B",
+    "mv": 5,
+    "colors": [
+      "B"
+    ],
+    "type": "Legendary Creature — Human Assassin",
+    "text": "Whenever another creature or planeswalker you control dies, Massacre\nGirl deals 1 damage to target opponent and you gain 1 life.\nWhenever an opponent is dealt noncombat damage, put a +1/+1 counter\non Massacre Girl.\n4/4",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 235,
+    "name": "Proft, Sinister Mastermind",
+    "mana": "2B",
+    "mv": 3,
+    "colors": [
+      "B"
+    ],
+    "type": "Legendary Creature — Human Rogue",
+    "text": "Threshold — You can’t cast this spell unless there are seven or more cards\nin your graveyard.\nMenace\n, Discard this card: Target creature gets -3/-1 until end of turn.\n5/5",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 236,
+    "name": "Teyo, Diamondblade Mage",
+    "mana": "3B",
+    "mv": 4,
+    "colors": [
+      "B"
+    ],
+    "type": "Legendary Creature — Human Warlock",
+    "text": "Flash\nWhen Teyo enters, target permanent you control gains deathtouch until\nend of turn. Put a +1/+1 counter on it if it’s a creature. Put a loyalty\ncounter on it if it’s a planeswalker.\n3/1",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 237,
+    "name": "Tinybones, Pocket Nuisance",
+    "mana": "2B",
+    "mv": 3,
+    "colors": [
+      "B"
+    ],
+    "type": "Legendary Creature — Skeleton Rogue",
+    "text": "When Tinybones enters, each opponent discards a card.\nWhenever a player discards one or more cards, Tinybones deals 1\ndamage to each opponent.\n2/1",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 238,
+    "name": "Way of the Deathbringer",
+    "mana": "2B",
+    "mv": 3,
+    "colors": [
+      "B"
+    ],
+    "type": "Legendary Enchantment",
+    "text": "When Way of the Deathbringer enters, empower Jace 5. (Put five loyalty\ncounters on a Jace token you control. If you don’t control one, first create a\nblue Jace planeswalker token with “[−1]: Surveil 1” and “[−3]: Draw a\ncard.”)\nPlaneswalkers you control have “[−2]: You may sacrifice a creature. If you\ndo, create a 4/4 green Beast creature token with trample.”",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 239,
+    "name": "Way of the Necromancer",
+    "mana": "1B",
+    "mv": 2,
+    "colors": [
+      "B"
+    ],
+    "type": "Legendary Enchantment",
+    "text": "When Way of the Necromancer enters, empower Jace 2. (Put two loyalty\ncounters on a Jace token you control. If you don’t control one, first create a\nblue Jace planeswalker token with “[−1]: Surveil 1” and “[−3]: Draw a\ncard.”)\nWhenever a creature you control dies, put a loyalty counter on each\nplaneswalker you control.",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 240,
+    "name": "Winter, Tormented Loner",
+    "mana": "2B",
+    "mv": 3,
+    "colors": [
+      "B"
+    ],
+    "type": "Legendary Creature — Human Warlock",
+    "text": "When Winter enters, you may sacrifice a creature or planeswalker. When\nyou do, each opponent sacrifices a creature of their choice.\nWinter gets +1/+0 for each creature and planeswalker card in your\ngraveyard.\n0/3",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 241,
+    "name": "Yargle, Glutton of Urborg",
+    "mana": "4B",
+    "mv": 5,
+    "colors": [
+      "B"
+    ],
+    "type": "Legendary Creature — Frog Spirit",
+    "text": "9/3",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 242,
+    "name": "Ajani Unrelenting",
+    "mana": "4RR",
+    "mv": 6,
+    "colors": [
+      "R"
+    ],
+    "type": "Legendary Planeswalker — Ajani",
+    "text": "Whenever you activate a loyalty ability, create a 2/2 colorless Wizard\nSoldier creature token named Cadet.\n+1: Creatures you control get +1/+0 and gain haste until end of turn.\n−2: Discard your hand, then draw a card for each creature you control.\n−3: Ajani deals 4 damage to each creature except for tokens you control.\nLoyalty: 5",
+    "rarity": "M",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 243,
+    "name": "Arni, Renowned Champion",
+    "mana": "3R",
+    "mv": 4,
+    "colors": [
+      "R"
+    ],
+    "type": "Legendary Creature — Human Berserker",
+    "text": "Trample\nWhenever another creature you control enters, Arni gets +X/+0 until end\nof turn, where X is that creature’s power.\n1/5",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 244,
+    "name": "Chandra, Torch of Defiance",
+    "mana": "2RR",
+    "mv": 4,
+    "colors": [
+      "R"
+    ],
+    "type": "Legendary Planeswalker — Chandra",
+    "text": "+1: Exile the top card of your library. You may cast that card. If you don’t,\nChandra deals 2 damage to each opponent.\n+1: Add\n.\n−3: Chandra deals 4 damage to target creature.\n−7: You get an emblem with “Whenever you cast a spell, this emblem\ndeals 5 damage to any target.”\nLoyalty: 4",
+    "rarity": "M",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 245,
+    "name": "Gallia, the Merrymaker",
+    "mana": "1R",
+    "mv": 2,
+    "colors": [
+      "R"
+    ],
+    "type": "Legendary Creature — Satyr",
+    "text": "Haste\nEach other creature you control with a +1/+1 counter on it has haste.\n,\n: Put a +1/+1 counter on target creature that entered this turn.\n2/1",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 246,
+    "name": "Jiang Yanggu, Alone",
+    "mana": "4R",
+    "mv": 5,
+    "colors": [
+      "R"
+    ],
+    "type": "Legendary Creature — Human Berserker",
+    "text": "Menace (This creature can’t be blocked except by two or more creatures.)\nWhenever a creature you control attacks a player alone, discard a card,\nthen draw a card. Then put a +1/+1 counter on that creature for each\ncard you’ve discarded this turn.\n4/4",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 247,
+    "name": "Kiora of Fire and Ashes",
+    "mana": "4RR",
+    "mv": 6,
+    "colors": [
+      "R"
+    ],
+    "type": "Legendary Creature — Merfolk Noble",
+    "text": "When Kiora enters, create a 5/5 red Dragon creature token with flying.\n: Create a 5/5 red Dragon creature token with flying.\n2/2",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 248,
+    "name": "Koth, the Geomancer",
+    "mana": "2R",
+    "mv": 3,
+    "colors": [
+      "R"
+    ],
+    "type": "Legendary Creature — Human Warrior",
+    "text": "Reach\nLandfall — Whenever a land you control enters, Koth deals 1 damage to\neach opponent. If that land is a Mountain, add\n.\n3/2",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 249,
+    "name": "Marwyn, the Clearcutter",
+    "mana": "R",
+    "mv": 1,
+    "colors": [
+      "R"
+    ],
+    "type": "Legendary Creature — Elf Warrior",
+    "text": ",\n, Sacrifice an artifact or land: Draw a card.\n2/1",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 250,
+    "name": "Pia, Determined Rebuilder",
+    "mana": "2R",
+    "mv": 3,
+    "colors": [
+      "R"
+    ],
+    "type": "Legendary Creature — Human Artificer",
+    "text": "When Pia enters, create a 1/1 colorless Thopter artifact creature token\nwith flying.\n: Target creature gets +X/+0 until end of turn, where X is the\nnumber of artifacts you control.\n2/2",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 251,
+    "name": "Samut, Hazoret's Champion",
+    "mana": "1R",
+    "mv": 2,
+    "colors": [
+      "R"
+    ],
+    "type": "Legendary Creature — Human Warrior Cleric",
+    "text": "Creatures you control have haste.\n2/2",
+    "rarity": "R",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 252,
+    "name": "Tetsuko Umezawa, Pursuer",
+    "mana": "3R",
+    "mv": 4,
+    "colors": [
+      "R"
+    ],
+    "type": "Legendary Creature — Human Mercenary",
+    "text": "Double strike\nProwess (Whenever you cast a noncreature spell, this creature gets +1/+1\nuntil end of turn.)\nWhenever a creature an opponent controls with power or toughness 1 or\nless blocks, Tetsuko Umezawa deals 1 damage to that creature’s\ncontroller.\n2/4",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 253,
+    "name": "Tomik, Izzet Sparkmage",
+    "mana": "1R",
+    "mv": 2,
+    "colors": [
+      "R"
+    ],
+    "type": "Legendary Creature — Human Wizard",
+    "text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1\nuntil end of turn.)\nIf a source you control would deal noncombat damage to an opponent or\na permanent an opponent controls, it deals that much damage plus 1\ninstead.\n1/2",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 254,
+    "name": "Way of the Pyromancer",
+    "mana": "1R",
+    "mv": 2,
+    "colors": [
+      "R"
+    ],
+    "type": "Legendary Enchantment",
+    "text": "When Way of the Pyromancer enters, empower Jace 2. (Put two loyalty\ncounters on a Jace token you control. If you don’t control one, first create a\nblue Jace planeswalker token with “[−1]: Surveil 1” and “[−3]: Draw a\ncard.”)\nPlaneswalkers you control have “[+1]: Add\n.”",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 255,
+    "name": "Way of the Warlord",
+    "mana": "2R",
+    "mv": 3,
+    "colors": [
+      "R"
+    ],
+    "type": "Legendary Enchantment",
+    "text": "When Way of the Warlord enters, empower Jace 5. (Put five loyalty\ncounters on a Jace token you control. If you don’t control one, first create a\nblue Jace planeswalker token with “[−1]: Surveil 1” and “[−3]: Draw a\ncard.”)\nPlaneswalkers you control have “[−4]: This planeswalker deals 2 damage\nto up to one target creature or planeswalker and 2 damage to target\nplayer.”",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 256,
+    "name": "Winter, Team Player",
+    "mana": "4R",
+    "mv": 5,
+    "colors": [
+      "R"
+    ],
+    "type": "Legendary Creature — Human Warrior",
+    "text": "Convoke (Your creatures can help cast this spell. Each creature you tap\nwhile casting this spell pays for\nor one mana of that creature’s color.)\nWhenever you cast a noncreature spell, creatures you control get +1/+0\nuntil end of turn.\n3/3",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 257,
+    "name": "Edgar, Moonlit Sovereign",
+    "mana": "3GG",
+    "mv": 5,
+    "colors": [
+      "G"
+    ],
+    "type": "Legendary Creature — Werewolf Noble",
+    "text": "Flash\nAt the beginning of your end step, if you didn’t cast a spell this turn, put\ntwo +1/+1 counters on Edgar.\n: Put a +1/+1 counter on each creature you control with a +1/+1\ncounter on it.\n4/4",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 258,
+    "name": "Fblthp, Knows the Way",
+    "mana": "XGG",
+    "mv": 2,
+    "colors": [
+      "G"
+    ],
+    "type": "Legendary Creature — Homunculus Scout",
+    "text": "Domain — Fblthp’s power is equal to the number of basic land types\namong lands you control.\nWhen Fblthp enters, search your library for up to X basic land cards with\ndifferent names, reveal them, put them into your hand, then shuffle.\n*/2",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 259,
+    "name": "Garruk, Curse Breaker",
+    "mana": "3GG",
+    "mv": 5,
+    "colors": [
+      "G"
+    ],
+    "type": "Legendary Planeswalker — Garruk",
+    "text": "Whenever a creature you control with power 4 or greater enters, draw a\ncard.\n+2: Untap up to two target lands.\n−3: Create a 4/4 green Beast creature token with trample.\n−4: Until your next turn, whenever one or more creatures attack one of\nyour opponents, those creatures get +2/+2 and gain trample until end of\nturn.\nLoyalty: 5",
+    "rarity": "M",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 260,
+    "name": "Ghalta the Unstoppable",
+    "mana": "8G",
+    "mv": 9,
+    "colors": [
+      "G"
+    ],
+    "type": "Legendary Creature — Elder Dinosaur",
+    "text": "This spell costs\nless to cast, where X is the greatest power among\ncreatures you control.\nTrample\nOther creatures you control have trample.\n8/8",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 261,
+    "name": "Jiang Yanggu, Never Alone",
+    "mana": "3G",
+    "mv": 4,
+    "colors": [
+      "G"
+    ],
+    "type": "Legendary Creature — Human Druid",
+    "text": "When Jiang Yanggu enters, create Mowu, a legendary 3/3 green Dog\ncreature token.\nAt the beginning of your end step, untap all tokens you control.\n2/2",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 262,
+    "name": "Loot, the Nexus",
+    "mana": "2G",
+    "mv": 3,
+    "colors": [
+      "G"
+    ],
+    "type": "Legendary Creature — Beast Noble",
+    "text": ": Choose a color. Add one mana of that color for each different power\namong creatures you control.\n2/1",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 263,
+    "name": "Marwyn, the Preserver",
+    "mana": "1G",
+    "mv": 2,
+    "colors": [
+      "G"
+    ],
+    "type": "Legendary Creature — Elf Druid",
+    "text": "Lands you control have hexproof. (They can’t be the targets of spells or\nabilities your opponents control.)\n: Return target land card from your graveyard to your hand.\n3/2",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 264,
+    "name": "Pia, Aether Ascetic",
+    "mana": "2G",
+    "mv": 3,
+    "colors": [
+      "G"
+    ],
+    "type": "Legendary Creature — Human Druid",
+    "text": "When Pia enters, you may discard a card. If you do, search your library\nfor an enchantment card, reveal it, put it into your hand, then shuffle.\n2/2",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 265,
+    "name": "Ruric Thar, Magecrusher",
+    "mana": "5GG",
+    "mv": 7,
+    "colors": [
+      "G"
+    ],
+    "type": "Legendary Creature — Ogre Warrior",
+    "text": "This spell can’t be countered.\nReach, vigilance, trample\nRuric Thar has hexproof as long as they haven’t dealt combat damage\nyet. (They can’t be the target of spells or abilities your opponents control.)\n7/7",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 266,
+    "name": "Titanbones, Towering Heart",
+    "mana": "3G",
+    "mv": 4,
+    "colors": [
+      "G"
+    ],
+    "type": "Legendary Creature — Skeleton Druid",
+    "text": "Reach\nWhenever you gain life, put two +1/+1 counters on Titanbones.\nWhen you discard this card, you gain 3 life.\n4/3",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 267,
+    "name": "Way of the Paradox",
+    "mana": "2G",
+    "mv": 3,
+    "colors": [
+      "G"
+    ],
+    "type": "Legendary Enchantment",
+    "text": "When Way of the Paradox enters, empower Jace 5. (Put five loyalty\ncounters on a Jace token you control. If you don’t control one, first create a\nblue Jace planeswalker token with “[−1]: Surveil 1” and “[−3]: Draw a\ncard.”)\nWhenever you activate a loyalty ability, you gain 1 life. You may play an\nadditional land this turn.",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 268,
+    "name": "Way of the Wildspeaker",
+    "mana": "4G",
+    "mv": 5,
+    "colors": [
+      "G"
+    ],
+    "type": "Legendary Enchantment",
+    "text": "When Way of the Wildspeaker enters, empower Jace 7. (Put seven\nloyalty counters on a Jace token you control. If you don’t control one, first\ncreate a blue Jace planeswalker token with “[−1]: Surveil 1” and “[−3]:\nDraw a card.”)\nPlaneswalkers you control have “[−4]: Create a 4/4 green Beast creature\ntoken with trample.”",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 269,
+    "name": "Yoshimaru, Scrappy Stray",
+    "mana": "1G",
+    "mv": 2,
+    "colors": [
+      "G"
+    ],
+    "type": "Legendary Creature — Dog",
+    "text": "When Yoshimaru enters, another target creature you control fights up to\none target creature an opponent controls. (Each deals damage equal to\nits power to the other.)\n: Put a +1/+1 counter on target nonlegendary creature.\n1/1",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 270,
+    "name": "Edgar, Ancient Bloodlord",
+    "mana": "WB",
+    "mv": 2,
+    "colors": [
+      "W",
+      "B"
+    ],
+    "type": "Legendary Creature — Vampire Noble",
+    "text": "Whenever another creature or planeswalker you control dies, you gain 1\nlife.\n, Sacrifice another creature or planeswalker: Put a +1/+1 counter on\nEdgar. He gains menace until end of turn. (He can’t be blocked except by\ntwo or more creatures.)\n2/3",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 271,
+    "name": "Hapatra, the Desert Fang",
+    "mana": "2BBG",
+    "mv": 5,
+    "colors": [
+      "B",
+      "G"
+    ],
+    "type": "Legendary Creature — Human Cleric",
+    "text": "When Hapatra enters, for each opponent, put X -1/-1 counters on up to\none target creature that player controls, where X is the greatest mana\nvalue among cards in your graveyard.\n3/3",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 272,
+    "name": "Karn, Gilded Guardian",
+    "mana": "2/W2/U2/B2/R2/G",
+    "mv": 10,
+    "colors": [
+      "W",
+      "U",
+      "B",
+      "R",
+      "G"
+    ],
+    "type": "Legendary Artifact Creature — Golem",
+    "text": "Vigilance, trample\nWhen Karn enters, draw a card for each color among other artifacts you\ncontrol.\n5/5",
+    "rarity": "R",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 273,
+    "name": "Kiora of Salt and Sand",
+    "mana": "1GU",
+    "mv": 3,
+    "colors": [
+      "U",
+      "G"
+    ],
+    "type": "Legendary Creature — Merfolk Noble",
+    "text": "Whenever you attack, if you’ve activated a loyalty ability this turn, untap\ntarget attacking creature. It can’t be blocked this turn.\nPlaneswalkers you control have “[−8]: Create an 8/8 blue Leviathan\ncreature token with hexproof.”\n2/4",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 274,
+    "name": "Mabel, Valley Hero",
+    "mana": "1RW",
+    "mv": 3,
+    "colors": [
+      "W",
+      "R"
+    ],
+    "type": "Legendary Creature — Mouse Soldier",
+    "text": "Whenever Mabel or another creature you control enters, put a +1/+1\ncounter on target creature that entered this turn.\n1/2",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 275,
+    "name": "Saheeli, Jewel of Avishkar",
+    "mana": "2UR",
+    "mv": 4,
+    "colors": [
+      "U",
+      "R"
+    ],
+    "type": "Legendary Creature — Human Artificer",
+    "text": "Thopters you control have haste.\nWhenever you cast a noncreature spell, create a 1/1 colorless Thopter\nartifact creature token with flying.\n2/4",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 276,
+    "name": "Tam, the Possibility // Legendary Creature — Gorgon Wizard",
+    "mana": "1GU",
+    "mv": 3,
+    "colors": [
+      "U",
+      "G"
+    ],
+    "type": "Legendary Creature — Gorgon Wizard // Planeswalker spells you cast cost",
+    "text": "Planeswalker spells you cast cost\nless to cast.\n,\n: Proliferate X times, where X is the number of\nplaneswalker types among planeswalkers you control. (To proliferate,\nchoose any number of permanents and/or players, then give each another\ncounter of each kind already there.)\n2/4",
+    "rarity": "R",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 277,
+    "name": "Vraska, Soul of Stone // Legendary Creature — Gorgon Wizard",
+    "mana": "URW",
+    "mv": 3,
+    "colors": [
+      "W",
+      "U",
+      "R"
+    ],
+    "type": "Legendary Creature — Gorgon Wizard // Artifact creatures you control have vigilance.",
+    "text": "Artifact creatures you control have vigilance.\nWhenever you cast a noncreature spell, create a 1/1 colorless Sculpture\nTreasure artifact creature token with “\n, Sacrifice this token: Add one\nmana of any color.”\n3/3",
+    "rarity": "R",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 278,
+    "name": "Vraska, the Cutting Glare",
+    "mana": "BBG",
+    "mv": 3,
+    "colors": [
+      "B",
+      "G"
+    ],
+    "type": "Legendary Creature — Gorgon Assassin",
+    "text": "Deathtouch\nWhen Vraska enters, if you control six or more lands, destroy target\npermanent an opponent controls. They create a Treasure token. (It’s an\nartifact with “\n, Sacrifice this token: Add one mana of any color.”)\n4/4",
+    "rarity": "R",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 279,
+    "name": "Karn, Argent Defender",
+    "mana": "2",
+    "mv": 2,
+    "colors": [],
+    "type": "Legendary Artifact Creature — Golem",
+    "text": "Artifacts and creatures entering the battlefield don’t cause abilities to\ntrigger.\n1/3",
+    "rarity": "R",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  },
+  {
+    "n": 280,
+    "name": "Traxos, Scourge Eternal",
+    "mana": "4",
+    "mv": 4,
+    "colors": [],
+    "type": "Legendary Artifact Creature — Dragon Construct",
+    "text": "Trample\nTraxos doesn’t untap during your untap step.\nWhenever you cast an artifact or creature spell, untap Traxos.\n5/4\nThough this query has ended, its relics still slumber in New Argive.",
+    "rarity": "U",
+    "echoed": true,
+    "common_dual": false,
+    "produces": []
+  }
+]
