@@ -212,13 +212,6 @@ tab_open,tab_build,tab_report,tab_draw,tab_lab,tab_model=TABS
 
 with tab_open:
     st.subheader("Il tuo Prerelease")
-    flat=[c for p in PACKS for c in p]
-    c1,c2,c3,c4,c5=st.columns(5)
-    c1.metric("Buste",6)
-    c2.metric("R/M aperte",sum(c.get("rarity") in {"R","M"} for c in flat)+1)
-    c3.metric("Coppia Eco",sum(c.get("echoed",False) for c in flat))
-    c4.metric("Terre doppie",sum(c.get("common_dual",False) for c in flat))
-    c5.metric("Interazioni ufficiali",sum(c.get("n") in engine.OFFICIAL_KEY_INTERACTION for c in flat))
     for i,pack in enumerate(PACKS,1):
         with st.expander("Busta %d"%i,expanded=(i==1)):
             cols=st.columns(4)
